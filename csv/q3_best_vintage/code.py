@@ -12,7 +12,6 @@ req = ('''
        join countries on regions.country_code = countries.code
        where vintages.ratings_count > 500
        order by vintages.ratings_average desc
-       limit 1
 ''')
 
 cursor.execute(req)
