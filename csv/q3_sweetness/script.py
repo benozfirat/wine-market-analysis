@@ -8,7 +8,8 @@ query = """
         wines.name AS wine_name,
         wines.sweetness,
         countries.name AS country_name,
-        COUNT (vintages.id) AS vintage_count
+        COUNT (vintages.id) AS vintage_count,
+        wines.ratings_count
     FROM
         wines
     JOIN
