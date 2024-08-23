@@ -5,15 +5,15 @@ conn = sqlite3.connect('db/vivino.db')
 cursor = conn.cursor()
 
 req = ('''
-    select distinct wines.name as name, wines.ratings_average as ratings_average, countries.name as country
+    select wines.name AS name, STRING_AGG(keywords_wine.group_name, ', ') AS group_names
     from wines
-    join regions on wines.region_id = regions.id
-    join countries on regions.country_code = countries.code
-    join keywords_wine on wines.id = keywords_wine.wine_id
-    join keywords on keywords.id = keywords_wine.keyword_id
-    where keywords.name in ('coffee', 'toast', 'green apple', 'cream', 'citrus')
-    and keywords_wine.count >= 10
-    order by keywords_wine.count desc
+    join regions ON wines.region_id = regions.id
+    join countries ON regions.country_code = countries.code
+    join keywords_wine ON wines.id = keywords_wine.wine_id
+    join keywords ON keywords.id = keywords_wine.keyword_id
+    where keywords.name IN ('coffee', 'toast', 'green apple', 'cream', 'citrus') and keywords_wine.count >= 10
+    group by wines.name
+    order by wines.name DESC;
 ''')
 
 cursor.execute(req)
