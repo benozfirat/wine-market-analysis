@@ -4,15 +4,17 @@ import csv
 conn = sqlite3.connect('db/vivino.db')
 cursor = conn.cursor()
 
-req = (
+    req = (
     '''
-        select wines.name, is_natural, regions.name, wineries.name, ratings_average, ratings_count, url, acidity, fizziness, intensity, sweetness, tannin, user_structure_count
+        select wines.name as Name, wines.ratings_average as "Avg Rating", count(vintages.id) as "Nbr of vintage", countries.name as country
         from wines
-        left join regions on wines.region_id = regions.id
-        left join wineries on wines.winery_id = wineries.id
-        limit 10
+        join vintages on wines.id = vintages.wine_id
+        join regions on wines.region_id = regions.id
+        join countries on regions.country_code = countries.code
+        where wines.ratings_count > 10000
+        group by vintages.wine_id;
     '''
-)
+    )
 
 cursor.execute(req)
 
