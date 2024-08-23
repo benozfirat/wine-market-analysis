@@ -19,4 +19,4 @@ query = """
     GROUP BY
         vintages.wine_id"""
 
-pd.read_sql_query(query, conn).to_csv('csv/q3_sweetness/vintage_count_per_wine.csv', index=False)
+pd.read_sql_query(query, conn).to_csv('csv/q3_sweetness/sweetness_index.csv', index=False)

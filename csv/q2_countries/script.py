@@ -29,4 +29,4 @@ FROM (
 JOIN
     countries ON countries.name = country"""
 
-pd.read_sql_query(query, conn).to_csv('csv/q2_countries/vintage_count_per_wine.csv', index=False)
+pd.read_sql_query(query, conn).to_csv('csv/q2_countries/countries.csv', index=False)
