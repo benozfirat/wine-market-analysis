@@ -12,7 +12,7 @@ req = ('''
     where countries.name = 'Italie'
     order by wines.ratings_average desc
     limit 1
-       ''')
+''')
 
 cursor.execute(req)
 
