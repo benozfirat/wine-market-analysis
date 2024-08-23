@@ -1,1 +1,8 @@
 CSV with all the most popular wines sold in Belgium
+
+csv with:
+wines.Name renamed as Wines
+wines.Avg Rating as Avg Rating
+The number of vintages
+The country
+The wines. Ratings Count as Rating Count
