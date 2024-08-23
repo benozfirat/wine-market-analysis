@@ -1,0 +1,1 @@
+csv containing Name, Type, Avg Rating , Nbr of vintage and country IF Rating count is above 10k
