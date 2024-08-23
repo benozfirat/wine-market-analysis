@@ -10,7 +10,6 @@ req = (
         from wines
         left join regions on wines.region_id = regions.id
         left join wineries on wines.winery_id = wineries.id
-        where regions.country_code = 'BE'
         limit 10
     '''
 )
