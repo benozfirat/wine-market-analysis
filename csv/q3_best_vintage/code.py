@@ -5,13 +5,20 @@ conn = sqlite3.connect('db/vivino.db')
 cursor = conn.cursor()
 
 req = ('''
-       select vintages.name, vintages.year, vintages.price_euros, vintages.ratings_average, countries.name as country
-       from vintages
-       join wines on vintages.wine_id = wines.id
-       join regions on wines.region_id = regions.id
-       join countries on regions.country_code = countries.code
-       where vintages.ratings_count > 500
-       order by vintages.ratings_average desc
+        SELECT 
+            wines.name AS wine_name, 
+            regions.name AS region_name, 
+            AVG(vintages.price_euros) AS AVG_price,
+            GROUP_CONCAT(vintages.year ORDER BY vintages.year ASC) AS list_of_years,
+            AVG(vintages.ratings_average) AS avg_ratings,
+            SUM(vintages.ratings_count) AS total_ratings_count
+        FROM vintages
+        JOIN wines ON vintages.wine_id = wines.id
+        JOIN regions ON wines.region_id = regions.id
+        JOIN countries ON regions.country_code = countries.code
+        AND vintages.ratings_count > 500
+        GROUP BY wines.name
+        ORDER BY wines.name
 ''')
 
 cursor.execute(req)
