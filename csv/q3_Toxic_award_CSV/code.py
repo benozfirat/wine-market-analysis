@@ -8,9 +8,9 @@ req = ('''
         SELECT 
             wines.name as "wines_name",
             countries.name as "countries_name",
-            count(vintages.id) as "vintage_count",
-            wines.ratings_count as "wines_rating_count",
-            wines.ratings_average as "wines_rating_count",
+            count(vintages.id) as "vintages_count",
+            wines.ratings_count as "wines_ratings_count",
+            wines.ratings_average as "wines_ratings_count",
             wines.acidity as "wines_acidity"
             
         FROM
