@@ -16,6 +16,7 @@ req = ('''
         JOIN keywords ON keywords.id = keywords_wine.keyword_id
         WHERE keywords.name IN ('coffee', 'toast', 'green apple', 'cream', 'citrus')
         AND keywords_wine.count >= 10
+        ORDER BY keywords.name
     ) AS unique_keywords
     GROUP BY name
     HAVING COUNT(DISTINCT keyword_name) = 5
