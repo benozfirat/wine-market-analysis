@@ -1,4 +1,4 @@
-wines_name,country_name,nbr_of_vintage,wines_rating_count,wines_rating_avg
+wines_name,countries_name,nbr_of_vintage,wines_rating_count,wines_rating_avg
 St. Henri Shiraz,Australie,2,17326,4.4
 Tenuta Tignanello 'Solaia',Italie,8,33143,4.6
 Tignanello,Italie,16,142513,4.5
