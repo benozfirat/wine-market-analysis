@@ -4,17 +4,23 @@ import csv
 conn = sqlite3.connect('db/vivino.db')
 cursor = conn.cursor()
 
-req = (
-'''
-    select wines.name as Wines, wines.ratings_average as "Avg Rating", count(vintages.id) as "Nbr of vintage", countries.name as country, wines.ratings_count as "Rating Count"
-    from wines
-    join vintages on wines.id = vintages.wine_id
-    join regions on wines.region_id = regions.id
-    join countries on regions.country_code = countries.code
-    where wines.ratings_count > 10000
-    group by vintages.wine_id;
-'''
-)
+req = ('''
+        SELECT 
+            wines.name AS Wines, 
+            wines.ratings_average AS "Avg Rating", 
+            COUNT(vintages.id) AS "Nbr of Vintage", 
+            countries.name AS Country, 
+            wines.ratings_count AS "Rating Count"
+        FROM 
+            wines
+        JOIN vintages ON wines.id = vintages.wine_id
+        JOIN regions ON wines.region_id = regions.id
+        JOIN countries ON regions.country_code = countries.code
+        WHERE 
+            wines.ratings_count > 10000
+        GROUP BY 
+            wines.id, wines.name, wines.ratings_average, countries.name, wines.ratings_count
+        ''')
 
 cursor.execute(req)
 
