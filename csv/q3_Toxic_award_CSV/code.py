@@ -6,12 +6,12 @@ cursor = conn.cursor()
 
 req = ('''
         SELECT 
-            wines.name as Wines,
+            wines.name as "wines_name",
             countries.name as country,
-            count(vintages.id) as "vintage count",
-            wines.ratings_count,
-            wines.ratings_average,
-            wines.acidity
+            count(vintages.id) as "vintage_count",
+            wines.ratings_count as "wines_rating_count",
+            wines.ratings_average as "wines_rating_count",
+            wines.acidity as "wines_acidity"
             
         FROM
             wines
