@@ -18,6 +18,7 @@ req = ('''
         AND keywords_wine.count >= 10
     ) AS unique_keywords
     GROUP BY name
+    HAVING COUNT(DISTINCT keyword_name) = 5
     ORDER BY name DESC;
 ''')
 
