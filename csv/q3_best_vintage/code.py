@@ -4,7 +4,7 @@ import csv
 conn = sqlite3.connect('db/vivino.db')
 cursor = conn.cursor()
 
-req = ('''
+    req = ('''
         SELECT 
             wines.name AS Wines, 
             regions.name AS region_name, 
@@ -14,7 +14,7 @@ req = ('''
             SUM(wines.ratings_count) AS "Wines rating count",
             SUM(vintages.ratings_count) AS total_ratings_count,
             AVG(vintages.ratings_average) AS avg_ratings,
-            SUM(vintages.rating_count) as "Vintage rating count"
+            Count(vintages.id) as "Vintage count"
         FROM vintages
         JOIN wines ON vintages.wine_id = wines.id
         JOIN regions ON wines.region_id = regions.id
