@@ -10,7 +10,7 @@ cursor = conn.cursor()
             regions.name AS "region_name", 
             countries.name as "countries_name",
             GROUP_CONCAT(vintages.year ORDER BY vintages.year ASC) AS "list_of_years",
-            AVG(vintages.price_euros) AS "avg_price",
+            AVG(vintages.price_euros) AS "vintages_price_avg",
             SUM(wines.ratings_count) AS "wines_ratings_count",
             SUM(vintages.ratings_count) AS "total_ratings_count",
             AVG(vintages.ratings_average) AS "vintages_ratings_avg",
