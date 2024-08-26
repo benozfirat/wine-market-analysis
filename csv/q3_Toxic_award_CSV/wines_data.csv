@@ -1,4 +1,4 @@
-wines_name,country_name,vintage_count,wines_rating_count,wines_rating_count,wines_acidity
+wines_name,countries_name,vintage_count,wines_rating_count,wines_rating_count,wines_acidity
 Mágico,Espagne,1,146,4.8,3.609973
 Fratini Bolgheri Superiore,Italie,1,153,4.8,3.3064845
 Cristal Rosé Vinothèque,France,1,88,4.8,4.5361114
