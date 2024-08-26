@@ -22,8 +22,8 @@ req = ('''
         GROUP BY 
             wines.name
         ORDER BY 
-            wines.ratings_average DESC;
-''')
+            wines.ratings_average DESC
+        ''')
 
 cursor.execute(req)
 
