@@ -10,19 +10,18 @@ req = ('''
             regions.name AS region_name, 
             countries.name as country,
             GROUP_CONCAT(vintages.year ORDER BY vintages.year ASC) AS list_of_years,
-            AVG(vintages.price_euros) AS AVG_price,
-            SUM(wines.ratings_count) as "Wines rating count",
-            SUM(vintages.ratings_count) AS total_ratings_count
-            AVG(vintages.ratings_average) AS avg_ratings,
-           
+            AVG(vintages.price_euros) AS "AVG price",
+            SUM(wines.ratings_count) AS "Wines rating count",
+            SUM(vintages.ratings_count) AS total_ratings_count,
+            AVG(vintages.ratings_average) AS avg_ratings
         FROM vintages
         JOIN wines ON vintages.wine_id = wines.id
         JOIN regions ON wines.region_id = regions.id
         JOIN countries ON regions.country_code = countries.code
-        AND vintages.ratings_count > 500
-        GROUP BY wines.name
+        WHERE vintages.ratings_count > 500
+        GROUP BY wines.name, regions.name, countries.name
         ORDER BY wines.name
-''')
+        ''')
 
 cursor.execute(req)
 
