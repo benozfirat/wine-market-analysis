@@ -5,7 +5,7 @@ conn = sqlite3.connect('db/vivino.db')
 cursor = conn.cursor()
 
 req = ('''
-    select wines.name AS name, STRING_AGG(keywords_wine.sunrise, ', ') AS sunrise
+    select wines.name AS name, STRING_AGG(keywords.name, ', ') AS sunrise
     from wines
     join regions ON wines.region_id = regions.id
     join countries ON regions.country_code = countries.code
