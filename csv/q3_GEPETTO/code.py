@@ -8,9 +8,9 @@ req = ('''
         SELECT 
             wines.name AS "wines_name", 
             countries.name AS "countries_name",
-            SUM(wines.ratings_count) AS "wines_rating_count",
-            AVG(vintages.ratings_average) AS "vintages_rating_avg",
-            AVG(wines.ratings_average) AS "wines_rating_avg"
+            SUM(wines.ratings_count) AS "wines_ratings_count",
+            AVG(vintages.ratings_average) AS "vintages_ratings_avg",
+            AVG(wines.ratings_average) AS "wines_ratings_avg"
             
         FROM 
             wines 
