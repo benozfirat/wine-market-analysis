@@ -7,7 +7,7 @@ cursor = conn.cursor()
 req = ('''
         SELECT 
             wines.name AS "wines_name", 
-            countries.name AS country, 
+            countries.name AS "country_name", 
             COUNT(vintages.id) AS "nbr_of_vintage", 
             wines.ratings_count AS "wines_rating_count",
             wines.ratings_average AS "wines_rating_avg"       
