@@ -27,7 +27,7 @@ A brief description of what the project does, its main goals, and why it is usef
 ## Installation
 
 ```bash
-git clone git@github.com:Atome1212/wine-market-analysis.git
+git clone git@github.com:benozfirat/wine-market-analysis.git
 cd wine-market-analysis
 pip install -r requirements.txt
 ```
