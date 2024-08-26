@@ -5,7 +5,7 @@ conn = sqlite3.connect('db/vivino.db')
 cursor = conn.cursor()
 
 req = ('''
-    SELECT name,
+    SELECT name as "wines_name",
         GROUP_CONCAT(keyword_name, ',') AS sunrise
     FROM (
         SELECT DISTINCT wines.name AS name, keywords.name AS keyword_name
