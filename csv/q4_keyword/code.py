@@ -5,15 +5,20 @@ conn = sqlite3.connect('db/vivino.db')
 cursor = conn.cursor()
 
 req = ('''
-    select wines.name AS name, STRING_AGG(keywords.name, ', ') AS sunrise
-    from wines
-    join regions ON wines.region_id = regions.id
-    join countries ON regions.country_code = countries.code
-    join keywords_wine ON wines.id = keywords_wine.wine_id
-    join keywords ON keywords.id = keywords_wine.keyword_id
-    where keywords.name IN ('coffee', 'toast', 'green apple', 'cream', 'citrus') and keywords_wine.count >= 10
-    group by wines.name
-    order by wines.name DESC;
+    SELECT name,
+        GROUP_CONCAT(keyword_name, ',') AS sunrise
+    FROM (
+        SELECT DISTINCT wines.name AS name, keywords.name AS keyword_name
+        FROM wines
+        JOIN regions ON wines.region_id = regions.id
+        JOIN countries ON regions.country_code = countries.code
+        JOIN keywords_wine ON wines.id = keywords_wine.wine_id
+        JOIN keywords ON keywords.id = keywords_wine.keyword_id
+        WHERE keywords.name IN ('coffee', 'toast', 'green apple', 'cream', 'citrus')
+        AND keywords_wine.count >= 10
+    ) AS unique_keywords
+    GROUP BY name
+    ORDER BY name DESC;
 ''')
 
 cursor.execute(req)
