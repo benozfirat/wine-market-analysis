@@ -6,12 +6,15 @@ cursor = conn.cursor()
 
 req = ('''
         SELECT 
-            wines.name AS wine_name, 
+            wines.name AS Wines, 
             regions.name AS region_name, 
-            AVG(vintages.price_euros) AS AVG_price,
+            countries.name as country,
             GROUP_CONCAT(vintages.year ORDER BY vintages.year ASC) AS list_of_years,
-            AVG(vintages.ratings_average) AS avg_ratings,
+            AVG(vintages.price_euros) AS AVG_price,
+            SUM(wines.ratings_count) as "Wines rating count",
             SUM(vintages.ratings_count) AS total_ratings_count
+            AVG(vintages.ratings_average) AS avg_ratings,
+           
         FROM vintages
         JOIN wines ON vintages.wine_id = wines.id
         JOIN regions ON wines.region_id = regions.id
