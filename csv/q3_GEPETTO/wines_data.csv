@@ -1,4 +1,4 @@
-wines_name,countries_name,wines_rating_count,vintages_rating_avg,wines_rating_avg
+wines_name,countries_name,wines_ratings_count,vintages_ratings_avg,wines_ratings_avg
 Fratini Bolgheri Superiore,Italie,153,0.0,4.8
 Amarone della Valpolicella Classico Riserva,Italie,587,0.0,4.8
 Veneto Alzero Cabernet,Italie,13000,4.74,4.7
