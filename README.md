@@ -20,6 +20,7 @@ A brief description of what the project does, its main goals, and why it is usef
 ├── README.md
 ├── main.py
 ├── requirements.txt
+├── csv
 └── utils
 
 ```
