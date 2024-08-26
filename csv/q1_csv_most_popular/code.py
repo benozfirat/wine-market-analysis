@@ -7,10 +7,11 @@ cursor = conn.cursor()
 req = ('''
         SELECT 
             wines.name AS Wines, 
-            wines.ratings_average AS "Avg Rating", 
-            COUNT(vintages.id) AS "Nbr of Vintage", 
             countries.name AS Country, 
-            wines.ratings_count AS "Rating Count"
+            COUNT(vintages.id) AS "Nbr of Vintage", 
+            wines.ratings_count AS "Rating Count",
+            wines.ratings_average AS "Avg Rating"       
+            
         FROM 
             wines
         JOIN vintages ON wines.id = vintages.wine_id
