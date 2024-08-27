@@ -1,0 +1,319 @@
+wines_name,countries_name,wines_ratings_count,vintages_ratings_avg,wines_ratings_avg
+Fratini Bolgheri Superiore,Italie,153,0.0,4.8
+Amarone della Valpolicella Classico Riserva,Italie,587,0.0,4.8
+Veneto Alzero Cabernet,Italie,13000,4.74,4.7
+Toscana,Italie,411360,4.658064516129032,4.645161290322581
+Recioto della Valpolicella Classico,Italie,2090,2.35,4.7
+Permassimo,Italie,186,4.6,4.7
+La Mattonara Amarone della Valpolicella Classico Riserva,Italie,1196,4.6,4.7
+Harlequin,Italie,2552,4.6,4.7
+Fieramonte Amarone della Valpolicella Riserva,Italie,630,2.35,4.7
+De Buris Amarone della Valpolicella Classico Riserva,Italie,1148,4.6,4.7
+Cerretalto Brunello di Montalcino,Italie,32238,4.683333333333334,4.7
+Barolo Riserva Monfortino,Italie,10026,4.6,4.7
+Amarone della Valpolicella Monte Lodoletta,Italie,103311,4.3307692307692305,4.7
+Vin Santo di Montepulciano,Italie,5411,0.0,4.6
+Veneto Rosso del Bepi,Italie,11241,3.0,4.6
+Tenuta Tignanello 'Solaia',Italie,265144,4.675,4.6
+Tenuta Guado al Tasso Matarocchio,Italie,3750,4.7,4.6
+Sperss Barolo,Italie,120450,4.581818181818182,4.6
+Sorì Tildìn (Barbaresco) Langhe,Italie,35595,3.566666666666666,4.6
+Sorì San Lorenzo,Italie,30856,3.425,4.6
+Secentenario,Italie,96,4.6,4.6
+Sassicaia,Italie,2691150,4.22,4.6
+Recioto della Valpolicella (Monte Lodoletta),Italie,681,1.5666666666666667,4.6
+Perpiero,Italie,351,4.7,4.6
+Octavius Amarone della Valpolicella Riserva,Italie,450,0.0,4.6
+Nettare Veneto Bianco,Italie,261,1.5999999999999999,4.6
+Moss Blanc Verdicchio dei Castelli di Jesi Classico Superiore,Italie,94,0.0,4.6
+Millecento Brunello di Montalcino Riserva,Italie,2728,4.55,4.6
+Lodovico,Italie,27020,4.642857142857143,4.6
+L'Amarone del Maestro Fornaser,Italie,1031,0.0,4.6
+Kurni Marche,Italie,10261,4.5,4.6
+Grande Cuvée Luigi Moio,Italie,240,1.5333333333333332,4.6
+Glesie Climat,Italie,74,0.0,4.6
+Falletto Barolo Le Rocche del Falletto Riserva,Italie,4354,3.3,4.6
+Dieci Brunello di Montalcino,Italie,43,4.6,4.6
+Croce Del Gal Riserva Amarone della Valpolicella Classico,Italie,188,0.0,4.6
+Costa Russi (Barbaresco) Langhe,Italie,23008,4.05,4.6
+Campo del Titari Amarone della Valpolicella Classico Riserva,Italie,2946,4.6,4.6
+Campo Inferi Amarone della Valpolicella Classico Riserva,Italie,6336,4.633333333333333,4.6
+Calcarole Amarone della Valpolicella Classico,Italie,2757,4.5,4.6
+Bure Alto Amarone  della Valpolicella Classico Riserva,Italie,264,2.35,4.6
+Brunello di Montalcino Riserva,Italie,78123,2.8113636363636365,4.493181818181818
+Bolgheri Superiore,Italie,1283816,4.579310344827586,4.572413793103448
+Bassolino di Sopra Brunello di Montalcino,Italie,348,4.55,4.6
+Barolo Riserva Villero,Italie,803,4.6,4.6
+Barolo Riserva Monprivato Cà d'Morissio,Italie,2352,4.625,4.6
+Barolo Cerretta,Italie,3289,3.0,4.466666666666666
+Barolo Arione,Italie,1036,3.4749999999999996,4.6
+Ampio,Italie,481,4.6,4.6
+Aegusa,Italie,162,0.0,4.6
+A50 Amarone della Valpolicella,Italie,100,4.5,4.6
+'Giulio Ferrari' Riserva del Fondatore,Italie,125920,4.14,4.6
+Vite Talin Barolo,Italie,131,4.6,4.5
+Vigna del Suolo Brunello di Montalcino,Italie,201,4.6,4.5
+Vigna Grande Cerzito Taurasi Riserva,Italie,1162,4.5,4.5
+Valpolicella Superiore Monte Lodoletta,Italie,65120,4.5,4.5
+Valpolicella Classico Superiore,Italie,24524,2.2,4.5
+Toscana Rosso,Italie,13995,4.56,4.5
+Toscana Bianco,Italie,833,4.5,4.5
+Tignanello,Italie,2280208,4.5375,4.5
+Tenuta Nuova Brunello di Montalcino,Italie,104670,4.5,4.5
+Tenuta Guado al Tasso Bolgheri Superiore,Italie,133568,3.325,4.5
+Rujno Rosso,Italie,1596,1.5333333333333332,4.5
+Rosso,Italie,176,2.25,4.5
+Rocche dell'Annunziata Torriglione Barolo,Italie,1222,0.0,4.5
+Rocche dell'Annunziata Barolo Riserva,Italie,1609,0.0,4.5
+Rocche dell'Annunziata Barolo,Italie,436,0.0,4.5
+Riserva vecchie viti dei Capalot e delle Brunate Barolo,Italie,338,4.7,4.5
+Regina del Bosco R.Quarantottomesi,Italie,109,4.6,4.5
+Redigaffi Toscana,Italie,72968,3.8714285714285714,4.5
+Recioto della Valpolicella Classico Riserva,Italie,27,0.0,4.5
+Raut Lagrein,Italie,58,0.0,4.5
+Quarto Vecchio Amarone della Valpolicella Classico Riserva,Italie,292,0.0,4.5
+Poggio all'Oro Brunello di Montalcino Riserva,Italie,7033,4.4,4.5
+Pieve Santa Restituta Sugarille Brunello di Montalcino,Italie,3717,4.5,4.5
+Pieve Santa Restituta Rennina Brunello di Montalcino,Italie,3393,4.5,4.5
+Pietro Dal Cero Amarone della Valpolicella,Italie,19272,4.466666666666667,4.5
+Pian delle Vigne Vignaferrovia Brunello di Montalcino Riserva,Italie,6495,4.433333333333334,4.5
+Petrucci Melo,Italie,61,4.5,4.5
+Per Sempre Syrah Toscana,Italie,2133,4.5,4.5
+NŌ Rosso,Italie,297,4.5,4.5
+Messorio,Italie,49626,4.566666666666666,4.5
+Mazzano Amarone Della Valpolicella Classico,Italie,6552,4.5,4.5
+Magma,Italie,748,0.0,4.5
+Madonna delle Grazie Brunello di Montalcino,Italie,10988,4.625,4.5
+Lux Vitis,Italie,530,4.5,4.5
+Lupi e Sirene Riserva,Italie,1292,4.5,4.5
+Luce Brunello di Montalcino,Italie,13088,4.45,4.5
+Limited Edition 10 Vendemmie,Italie,9453,4.5,4.5
+Lilium Est Amarone Della Valpolicella Riserva,Italie,733,4.5,4.5
+LR,Italie,1006,4.55,4.5
+Kupra Marche,Italie,637,0.0,4.5
+Kapnios Aglianico,Italie,1134,4.6,4.5
+Il San Lorenzo Bianco,Italie,673,0.0,4.5
+Habemus Lazio Rosso (Etichetta Rossa),Italie,298,4.6,4.5
+Grande Cuvée I Terlaner,Italie,411,0.0,4.5
+Gorgona Rosso,Italie,476,0.0,4.5
+Gaia & Rey Langhe,Italie,5909,4.6,4.5
+Fossati Barolo,Italie,116,0.0,4.5
+Flaccianello della Pieve,Italie,107590,4.4799999999999995,4.5
+Ferro,Italie,499,4.5,4.5
+Falletto Barolo Le Rocche del Falletto,Italie,5649,4.566666666666666,4.5
+Es Riserva,Italie,371,0.0,4.5
+Duna Mirante Primitivo di Manduria,Italie,96,0.0,4.5
+Darmagi Langhe,Italie,12736,3.425,4.5
+Cuvée Annamaria Clementi (Extra Brut),Italie,23784,4.466666666666667,4.5
+Crichet Pajè Barbaresco,Italie,584,0.0,4.5
+Cosimo Varvaglione Collezione Privata Primitivo di Manduria,Italie,5016,4.4,4.5
+Conteisa Langhe,Italie,2295,4.5,4.5
+Collina Rionda di Serralunga Barolo,Italie,312,0.0,4.5
+Ciliegio Amarone della Valpolicella,Italie,76,0.0,4.5
+Charity Edition Nebbiolo d'Alba Arione,Italie,29,0.0,4.5
+Cerretta Barolo Riserva (Vigna Bricco),Italie,6195,4.466666666666667,4.5
+Ca’ del Merlo Rosso Veneto,Italie,4396,4.45,4.5
+Cannubi Barolo,Italie,310,2.25,4.45
+Campolongo di Torbe Amarone della Valpolicella Classico,Italie,13176,3.0,4.5
+Campogiovanni Brunello di Montalcino Riserva Il Quercione,Italie,1107,4.5,4.5
+Cabochon Doppio Zero,Italie,217,4.6,4.5
+Bruno Lunelli Riserva,Italie,96,0.0,4.5
+Brunello di Montalcino Riserva Pianrosso Santa Caterina d'Oro,Italie,3942,4.5,4.5
+Brunello di Montalcino Riserva Madonna del Piano,Italie,10518,4.6000000000000005,4.5
+Brunate  Barolo,Italie,2578,2.25,4.5
+Boghis Climat,Italie,54,0.0,4.5
+Bibbona,Italie,5981,4.6,4.5
+Ben Ryé Passito di Pantelleria,Italie,21351,4.4,4.5
+Barolo Riserva Speciale Granbussia,Italie,224,0.0,4.5
+Barolo Riserva Granbussia,Italie,3456,4.6,4.5
+Barolo Riserva Cannubi 1752,Italie,451,0.0,4.5
+Barolo Cascina Francia,Italie,48360,4.5874999999999995,4.5
+Barolo Bussia Romirasco,Italie,1544,0.0,4.5
+Barbaresco Albesani,Italie,183,4.5,4.5
+Barbaresco,Italie,392256,4.54375,4.5
+Baffonero Maremma Toscana,Italie,3364,2.25,4.5
+Amarone della Valpolicella Classico Riserva (Sergio Zenato),Italie,39852,4.525,4.5
+Amarone della Valpolicella Classico Mater,Italie,739,0.0,4.5
+Amarone Stella,Italie,1599,3.0666666666666664,4.5
+Amarone Senza Titolo,Italie,225,0.0,4.5
+Alàuda,Italie,670,0.0,4.5
+60 Sessantanni Old Vines Primitivo di Manduria,Italie,188578,4.45,4.5
+5 Stelle Sfursat,Italie,42960,4.475,4.5
+'Giulio Ferrari' Riserva del Fondatore Rosé,Italie,308,0.0,4.5
+d'Alceo,Italie,9399,2.966666666666667,4.4
+Vürsù Barolo Campè,Italie,31300,4.4799999999999995,4.4
+Vürsù Barbaresco Valeirano,Italie,3263,4.6,4.4
+Vürsù Barbaresco Starderi,Italie,13242,4.4,4.4
+Vürsù Barbaresco Gallina,Italie,12786,4.4,4.4
+Vittorio Moretti,Italie,2025,4.4,4.4
+Vin Santo di Montepulciano Occhio di Pernice,Italie,7468,1.15,4.4
+Vigneto Bellavista Chianti Classico,Italie,7010,3.62,4.4
+Vigna Madonna Assunta La Villa Barolo Riserva,Italie,470,4.5,4.4
+Vigna Colonnello Barolo Riserva Bussia,Italie,1914,4.5,4.4
+Vigna Cappella di S. Stefano Perno Barolo,Italie,5028,4.4,4.4
+Valmezzane Amarone della Valpolicella,Italie,1598,4.45,4.4
+VT Vendemmia Tardiva,Italie,1096,0.0,4.4
+Turriga Isola dei Nuraghi,Italie,14641,4.5,4.4
+Triglia Negroamaro Rosato,Italie,278,4.7,4.4
+Trebbiano d'Abruzzo,Italie,5974,2.2,4.4
+Toscana I Sodi di San Niccolo,Italie,17706,4.4,4.4
+Tenuta Montebello Picconero,Italie,2011,4.4,4.4
+Siepi,Italie,40645,3.5200000000000005,4.4
+Semel Pater,Italie,710,0.0,4.4
+Saffredi,Italie,20998,4.4,4.4
+Roccolo Ludwig Barth von Barthenau,Italie,310,0.0,4.4
+Quarz Sauvignon,Italie,35536,4.425000000000001,4.4
+Predappio Massera,Italie,644,0.0,4.4
+Poggio Alle Nane Maremma Toscana,Italie,7018,4.4,4.4
+Poggio Al Vento Brunello di Montalcino Riserva,Italie,4542,4.4,4.4
+Pieve Santa Restituta Brunello di Montalcino,Italie,43734,4.4,4.4
+Pegrandi Amarone della Valpolicella Classico,Italie,1833,4.6,4.4
+Paralupi Appassimento,Italie,575,0.0,4.4
+Paleo Rosso,Italie,21880,2.2,4.4
+Palazzi Rosso Toscana,Italie,1922,0.0,4.4
+Ornato Barolo,Italie,10938,4.5,4.4
+Old Vines Primitivo di Manduria,Italie,20904,4.4,4.4
+Mossone,Italie,892,0.0,4.4
+Montefico Barbaresco Vecchie Viti,Italie,581,0.0,4.4
+Lupicaia,Italie,22070,4.44,4.4
+Luminaria Primitivo di Manduria,Italie,563,4.5,4.4
+Luce,Italie,52410,4.4,4.4
+Librante Primitivo di Manduria,Italie,491,0.0,4.4
+Le Lucére Brunello di Montalcino Riserva,Italie,426,0.0,4.4
+Lagrein Riserva Porphyr,Italie,15369,2.9333333333333336,4.4
+La Serra Barolo,Italie,1449,0.0,4.4
+L'Apparita,Italie,38360,4.07,4.4
+Kairos,Italie,36820,3.56,4.4
+Ipsus Chianti Classico Gran Selezione,Italie,185,4.5,4.4
+Il Ritrovo,Italie,363,0.0,4.4
+Il Bacca Old Vine Primitivo di Manduria,Italie,2933,4.4,4.4
+Il 'Divasco' Riserva,Italie,765,0.0,4.4
+Helichrysum Brunello di Montalcino,Italie,1370,0.0,4.4
+Harimann Montepulciano d'Abruzzo,Italie,2172,0.0,4.4
+Guglielmi di Jago Amarone della Valpolicella Classico,Italie,816,2.35,4.4
+Guerriero della Terra,Italie,20370,4.4,4.4
+Guerriero del Mare,Italie,3290,0.0,4.4
+Graticciaia,Italie,2451,4.4,4.4
+Graal Amarone della Valpolicella Valpantena,Italie,328,0.0,4.4
+Gorgona,Italie,592,4.5,4.4
+Giunonico Riserva Primitivo di Manduria,Italie,460,0.0,4.4
+Giramonte Toscana,Italie,1678,4.4,4.4
+Giorgio Bartholomäus,Italie,1108,4.5,4.4
+Gallina Barbaresco,Italie,2253,3.0,4.4
+Gabbro Toscana,Italie,1842,4.5,4.4
+Freienfeld Cabernet Sauvignon Riserva,Italie,173,0.0,4.4
+Fanòi Primitivo,Italie,695,4.5,4.4
+Falletto Barolo,Italie,1760,4.4,4.4
+Falletto Barbaresco Rabaja,Italie,448,4.5,4.4
+Falletto Barbaresco Asili,Italie,3450,4.4,4.4
+Duemani Cabernet Franc,Italie,2339,4.5,4.4
+Cěrǎsum Riserva Amarone della Valpolicella,Italie,460,0.0,4.4
+Colore Toscana,Italie,1415,4.4,4.4
+Cinque Autoctoni Collection Limited Release,Italie,4281,4.4,4.4
+Castello della Sala Cervaro della Sala,Italie,90609,4.433333333333334,4.4
+Campo del Drago Brunello di Montalcino,Italie,2854,4.5,4.4
+Campo dei Gigli Amarone della Valpolicella,Italie,5050,4.4,4.4
+Campo León Amarone della Valpolicella,Italie,15556,4.4,4.4
+Campo Alla Sughera,Italie,1776,4.45,4.4
+Calle Merlot Rosso Veronese,Italie,1053,4.4,4.4
+Cabernet Sauvignon,Italie,2408,0.0,4.4
+Brunello di Montalcino  Montosoli,Italie,18528,4.433333333333334,4.4
+Brunello di Montalcino,Italie,758498,4.105882352941177,4.427450980392157
+Big'd Big Barolo,Italie,1148,0.0,4.4
+Beyond the Clouds,Italie,4760,0.0,4.4
+Barrosu Cannonau di Sardegna Riserva Franzisca,Italie,794,4.5,4.4
+Barolo Rocche di Castiglione,Italie,1272,0.0,4.4
+Barolo Rocche,Italie,8075,1.78,4.4
+Barolo Riserva Leon,Italie,948,4.4,4.4
+Barolo Monprivato,Italie,48762,4.514285714285714,4.4
+Barolo Ginestra Casa Maté,Italie,4116,4.4,4.4
+Barolo Enrico VI,Italie,9321,2.9333333333333336,4.4
+Barolo Cannubi Boschis,Italie,4298,4.4,4.4
+Barolo Bussia Vigna Munie,Italie,141,0.0,4.4
+Barolo Bussia Cicala,Italie,6692,4.45,4.4
+Barolo Bussia,Italie,9050,4.4,4.4
+Barolo Bricco Rocche,Italie,14615,4.5,4.4
+Barolo Bricco Gattera,Italie,2365,4.5,4.4
+Barbaresco Asili,Italie,2130,0.0,4.4
+Asili Barbaresco Vecchie Viti,Italie,668,0.0,4.4
+Arborina Barolo,Italie,5054,2.25,4.4
+Annunziata Barolo Riserva,Italie,138,4.5,4.4
+Amarone della Valpolicella Vigna Garzon,Italie,4227,4.4,4.4
+Amarone della Valpolicella Riserva,Italie,958,0.0,4.4
+Amarone della Valpolicella Classico,Italie,339267,3.7277777777777783,4.411111111111111
+Amarone della Valpolicella,Italie,21105,2.4555555555555557,4.388888888888889
+Amarone Classico Monte Danieli,Italie,504,4.5,4.4
+Altero Brunello di Montalcino,Italie,13860,4.466666666666667,4.4
+Ai Suma Barbera d'Asti,Italie,3012,4.5,4.4
+80 Vecchie Vigne Primitivo di Manduria Old Vines,Italie,2476,4.5,4.4
+50 Old Vines Vecchie Vigne Negroamaro,Italie,510,4.4,4.4
+50 & 50,Italie,27471,4.433333333333334,4.4
+123 Brunello di Montalcino Riserva,Italie,525,0.0,4.4
+110 e Lode Merlot,Italie,174,0.0,4.4
+Vigne Vecchie Gold Series Leggenda Primitivo di Manduria,Italie,3121,4.5,4.3
+Vigna Molsino,Italie,2269,4.5,4.3
+Vecchie Vigne Brunello di Montalcino,Italie,3868,4.5,4.3
+Toscana Il Pareto,Italie,3195,4.6,4.3
+Toscana Camartina,Italie,3673,4.4,4.3
+Toscana Batar,Italie,4187,4.4,4.3
+Scrio,Italie,4644,4.45,4.3
+Sassella Nuova Regina Riserva,Italie,987,4.4,4.3
+Rocche di Castiglione Barolo,Italie,2528,4.45,4.4
+Riserva Nova Domus Terlaner,Italie,5250,4.4,4.3
+Ribolla Gialla,Italie,7018,4.4,4.3
+Piovesole Amarone della Valpolicella Classico,Italie,868,4.5,4.3
+Pietradonice,Italie,4532,4.45,4.3
+Pian delle Vigne Brunello di Montalcino,Italie,62726,4.4,4.3
+Percarlo,Italie,9616,4.45,4.3
+Pajè Barbaresco,Italie,3820,4.45,4.3
+Oreno Toscana,Italie,12407,4.4,4.3
+Mongovone Barbera d'Asti Superiore,Italie,2771,4.4,4.3
+Mille E Una Notte,Italie,15865,4.4,4.3
+Maria Adelaide Barbaresco,Italie,501,4.5,4.3
+Maggiarino Vino Nobile di Montepulciano,Italie,555,4.4,4.3
+Le Serre Nuove,Italie,50411,4.4,4.3
+Il Pino di Biserno,Italie,35132,4.4,4.3
+Il Bricco Barbaresco,Italie,2299,4.4,4.3
+Giallo d'Arles Greco di Tufo,Italie,3274,4.4,4.3
+Gewürztraminer Lunare,Italie,2732,4.4,4.3
+Galatrona,Italie,31884,4.425000000000001,4.3
+Dagromis Barolo,Italie,20685,4.4,4.3
+Cà Bertoldi Amarone della Valpolicella Classico,Italie,3708,4.5,4.3
+Costasera Amarone della Valpolicella Classico,Italie,186794,4.4,4.3
+Cosimo Varvaglione Collezione Privata Negroamaro del Salento,Italie,826,4.4,4.3
+Corte di Cama Sforzato di Valtellina,Italie,3211,4.4,4.3
+Cepparello Red,Italie,24382,4.4,4.3
+Castello della Sala Muffato della Sala,Italie,6356,4.5,4.3
+Capitel Monte Olmi Amarone della Valpolicella Classico Riserva,Italie,4229,4.4,4.3
+Brunello di Montalcino Riserva Vigna Paganelli,Italie,14246,4.4,4.3
+Brunello di Montalcino Riserva Pian di Conte,Italie,1118,4.4,4.3
+Bricco dell'Uccellone Barbera d'Asti,Italie,17625,4.4,4.3
+Bric Dël Fiasc Barolo,Italie,9894,4.45,4.3
+Barolo Sorì Ginestra,Italie,14481,4.466666666666667,4.3
+Barolo Riserva Vigna Rionda,Italie,7060,4.45,4.3
+Barolo Riserva Bricco Boschis Vigna San Giuseppe,Italie,8060,4.4,4.3
+Barolo Riserva,Italie,12928,2.3,4.35
+Barolo Prapò,Italie,2450,4.4,4.3
+Barolo Paiagallo,Italie,1917,4.4,4.3
+Barolo Monvigliero,Italie,6679,4.5,4.266666666666667
+Barolo Le Vigne,Italie,10052,4.45,4.3
+Barolo Ginestra Vigna del Gris,Italie,3333,4.5,4.3
+Barolo Ciabot Mentin Ginestra,Italie,3525,4.4,4.3
+Barolo Cerequio,Italie,3839,4.4,4.3
+Barolo Cannubi,Italie,3653,4.4,4.25
+Barolo Brunate,Italie,18662,4.44,4.3
+Barbera d'Alba Vigna Francia,Italie,14630,4.4,4.3
+Barbaresco Rabajà,Italie,10938,4.5,4.3
+Barbaresco Gaiun Martinenga,Italie,2298,4.4,4.3
+6 Anime Puglia Rosso,Italie,2476,4.5,4.3
+25 anni Montefalco Sagrantino,Italie,5419,4.4,4.3
+Solare Toscana,Italie,4961,4.5,4.2
+Primitivo di Manduria,Italie,2011,4.5,4.2
+Pochi Filagn Barbera d'Alba,Italie,410,4.5,4.2
+Montepulciano d'Abruzzo,Italie,28608,3.925,4.3500000000000005
+Linticlarus Lagrein Riserva,Italie,1387,4.4,4.2
+La Ricolma,Italie,1525,4.5,4.2
+Cuvée Kermesse Rosso,Italie,1153,4.4,4.2
+Cresasso Corvina Veronese,Italie,2333,4.4,4.2
+Bolgheri Superiore Sondraia,Italie,12843,4.4,4.2
+Amarone Della Valpolicella Marta Galli,Italie,1085,4.4,4.2
