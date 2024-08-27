@@ -6,8 +6,8 @@ conn = sqlite3.connect('utils/vivino.db')
 query = """
     SELECT
         countries.name AS country,
-        AVG(wines.ratings_average) AS wine_rating,
-        AVG(vintages.ratings_average) AS vintage_rating
+        SUM((wines.ratings_average)*(wines.ratings_count)) / SUM(wines.ratings_count) AS wines_rating,
+        SUM((vintages.ratings_average)*(vintages.ratings_count)) / SUM(vintages.ratings_count) AS vintages_rating
     FROM
         countries
     JOIN

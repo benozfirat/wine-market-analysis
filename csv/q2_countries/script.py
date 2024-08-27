@@ -7,7 +7,7 @@ query = """
     SELECT
     countries.name AS country,
     AVG(vintages.price_euros) AS avg_price,
-    AVG(wines.ratings_average) AS avg_rating,
+    SUM((wines.ratings_average)*(wines.ratings_count)) / SUM(wines.ratings_count) AS avg_rating,
     countries.wines_count,
     countries.wineries_count,
     wines.user_structure_count
