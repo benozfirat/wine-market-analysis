@@ -24,6 +24,6 @@ req =('''
 
 cursor.execute(req)
 
-pd.read_sql_query(req, conn).to_csv('wines_data.csv', index=False)
+pd.read_sql_query(req, conn).to_csv('./csv/q7_one_of_our_VIP/wines_data.csv', index=False)
 
 conn.close()
