@@ -9,13 +9,23 @@ req = ('''
             wines_name AS "wines_name",
             GROUP_CONCAT(keyword_name, ',') AS sunrise,
             countries_name,
-            ratings_average
+            ratings_average,
+            wines_acidity,
+            wines_fizziness,
+            wines_intensity,
+            wines_sweetness,
+            wines_tannin
         FROM (
             SELECT DISTINCT 
                 wines.name AS "wines_name", 
                 keywords.name AS keyword_name, 
                 countries.name AS "countries_name", 
-                wines.ratings_average AS "ratings_average"
+                wines.ratings_average AS "ratings_average",
+                wines.acidity AS "wines_acidity",
+                wines.fizziness AS "wines_fizziness",
+                wines.intensity AS "wines_intensity",
+                wines.sweetness AS "wines_sweetness",
+                wines.tannin AS "wines_tannin"
             FROM wines
             JOIN regions ON wines.region_id = regions.id
             JOIN countries ON regions.country_code = countries.code
