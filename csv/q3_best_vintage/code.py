@@ -27,7 +27,7 @@ cursor = conn.cursor()
 cursor.execute(req)
 
 rows = cursor.fetchall()
-csv_file_name = 'wines_data.csv'
+csv_file_name = './csv/q3_best_vintage/wines_data.csv'
 
 with open(csv_file_name, 'w', newline='') as csv_file:
     csv_writer = csv.writer(csv_file)
