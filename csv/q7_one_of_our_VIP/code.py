@@ -32,8 +32,7 @@ cursor = conn.cursor()
             JOIN vintages ON wines.id = vintages.wine_id
             WHERE keywords.name IN ('dark fruit', 'blackcurrant', 'blackberry', 'cedar', 'tobacco', 'mint', 'earthy', 'leather', 'dried herbs', 'cigar Box')
             )
-            GROUP BY Wines
-            ORDER BY Wines
+        GROUP BY Wines
 ''')
 
 cursor.execute(req)
