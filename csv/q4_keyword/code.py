@@ -5,22 +5,29 @@ conn = sqlite3.connect('db/vivino.db')
 cursor = conn.cursor()
 
 req = ('''
-    SELECT name as "wines_name",
-        GROUP_CONCAT(keyword_name, ',') AS sunrise
-    FROM (
-        SELECT DISTINCT wines.name AS name, keywords.name AS keyword_name
-        FROM wines
-        JOIN regions ON wines.region_id = regions.id
-        JOIN countries ON regions.country_code = countries.code
-        JOIN keywords_wine ON wines.id = keywords_wine.wine_id
-        JOIN keywords ON keywords.id = keywords_wine.keyword_id
-        WHERE keywords.name IN ('coffee', 'toast', 'green apple', 'cream', 'citrus')
-        AND keywords_wine.count >= 10
-        ORDER BY keywords.name
-    ) AS unique_keywords
-    GROUP BY name
-    HAVING COUNT(DISTINCT keyword_name) = 5
-    ORDER BY name DESC;
+        SELECT 
+            wines_name AS "wines_name",
+            GROUP_CONCAT(keyword_name, ',') AS sunrise,
+            countries_name,
+            ratings_average
+        FROM (
+            SELECT DISTINCT 
+                wines.name AS "wines_name", 
+                keywords.name AS keyword_name, 
+                countries.name AS "countries_name", 
+                wines.ratings_average AS "ratings_average"
+            FROM wines
+            JOIN regions ON wines.region_id = regions.id
+            JOIN countries ON regions.country_code = countries.code
+            JOIN keywords_wine ON wines.id = keywords_wine.wine_id
+            JOIN keywords ON keywords.id = keywords_wine.keyword_id
+            WHERE keywords.name IN ('coffee', 'toast', 'green apple', 'cream', 'citrus')
+            AND keywords_wine.count >= 10
+            ORDER BY keywords.name
+        ) AS unique_keywords
+        GROUP BY wines_name
+        HAVING COUNT(DISTINCT keyword_name) = 5
+        ORDER BY wines_name DESC;
 ''')
 
 cursor.execute(req)
