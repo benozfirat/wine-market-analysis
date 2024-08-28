@@ -25,7 +25,6 @@ cursor = conn.cursor()
                 keywords.name AS "Keywords",
                 vintages.ratings_average AS "Vintage_Rating"
             FROM wines
-            JOIN regions ON wines.region_id = regions.id
             JOIN keywords_wine ON wines.id = keywords_wine.wine_id
             JOIN keywords ON keywords.id = keywords_wine.keyword_id
             JOIN vintages ON wines.id = vintages.wine_id
