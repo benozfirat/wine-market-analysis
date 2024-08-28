@@ -1,0 +1,851 @@
+Wines,Country,Reviews,Rating,Tannin,Acidity,Vintage Rating
+Mágico,Espagne,146,4.8,4.1008725,3.609973,0.0
+Fratini Bolgheri Superiore,Italie,153,4.8,3.7667968,3.3064845,0.0
+Cristal Rosé Vinothèque,France,88,4.8,,4.5361114,0.0
+Batard-Montrachet Grand Cru,France,34,4.8,,3.2878573,0.0
+Amarone della Valpolicella Classico Riserva,Italie,587,4.8,2.327957,2.4278033,0.0
+Échézeaux Grand Cru,France,359,4.7,2.5460024,4.273491,0.0
+Zeltinger Sonnenuhr Beerenauslese,Allemagne,44,4.7,,4.7252946,0.0
+Veneto Alzero Cabernet,Italie,2600,4.7,2.9364958,2.300103,4.74
+Unico Reserva Especial Edición,Espagne,13025,4.7,3.483004,3.680081,4.6
+Unico,Espagne,45140,4.7,3.419756,3.7048488,4.666666666666667
+Toscana,Italie,16284,4.7,3.1404293,3.1028588,4.6686214911496515
+The Laird,Australie,627,4.7,3.095071,2.9231873,0.0
+The Black Lion,Afrique du Sud,476,4.7,3.27289,3.408501,2.35
+Special Selection Cabernet Sauvignon,États-Unis,41236,4.7,3.2025323,3.3095143,4.6499999999999995
+Scharzhofberger Riesling Eiswein,Allemagne,30,4.7,,,0.0
+Sauternes,France,44126,4.7,,4.338159,4.726963906581741
+Romanée-Saint-Vivant Grand Cru (Marey-Monge),France,6597,4.7,2.5899088,4.108734,4.666666666666667
+Recioto della Valpolicella Classico,Italie,1045,4.7,,,2.35
+Permassimo,Italie,186,4.7,3.284798,3.5799327,4.6
+P2 Plénitude Brut Champagne,France,7543,4.7,,4.272861,4.7
+Montrachet Grand Cru,France,459,4.7,,3.2430873,1.3482071713147412
+Ligne de Crete Les Grandes Vignes Hermitage,France,76,4.7,4.2129054,3.6480408,0.0
+Le Mesnil Blanc de Blancs (Cuvée S) Brut Champagne,France,9564,4.7,,4.508223,4.733333333333333
+La Vina de Corteo,Espagne,374,4.7,3.6585574,2.9370162,4.6
+La Mattonara Amarone della Valpolicella Classico Riserva,Italie,1196,4.7,2.2620783,2.2975316,4.6
+IX Estate Red,États-Unis,2810,4.7,3.6350627,3.8290682,4.8
+Harlequin,Italie,1276,4.7,3.0811121,2.6530778,4.6
+Harlan Estate Red,États-Unis,7231,4.7,3.5947363,3.8477607,4.8
+Grange,Australie,24356,4.7,3.2378497,3.046586,4.675
+Fieramonte Amarone della Valpolicella Riserva,Italie,315,4.7,2.4112194,2.3013904,2.35
+Eszencia,Hongrie,488,4.7,,,0.0
+Don PX Convento Selección,Espagne,1224,4.7,,2.2442873,2.35
+De Buris Amarone della Valpolicella Classico Riserva,Italie,574,4.7,2.291238,2.5711343,4.6
+Cristal Vinothèque,France,426,4.7,,4.4084377,2.4
+Collection,France,2184,4.7,,4.5422707,4.666666666666667
+Clos du Mesnil,France,2471,4.7,,4.546456,4.766666666666667
+Cerretalto Brunello di Montalcino,Italie,5373,4.7,3.6501353,3.8362374,4.683333333333334
+Book 17 XVII,Afrique du Sud,814,4.7,3.4206069,3.7373917,4.6
+Barolo Riserva Monfortino,Italie,5013,4.7,4.350989,4.513654,4.6000000000000005
+Amarone della Valpolicella Monte Lodoletta,Italie,7947,4.7,2.4933603,2.235851,4.3307692307692305
+Vosne-Romanée Premier Cru Aux Reignots,France,645,4.6,2.5516326,4.042153,4.525
+Viña El Pison,Espagne,3027,4.6,3.6354012,3.2864294,4.6499999999999995
+Vintage Port Nacional,Portugal,1122,4.6,,2.9584723,4.8
+Vintage,France,16918,4.6,,4.515321,4.666666666666667
+Vin de Pays de l'Hérault Blanc,France,1209,4.6,,3.0531123,4.55
+Vin de Constance (Natural Sweet),Afrique du Sud,13210,4.6,,4.958154,4.6
+Vin Santo di Montepulciano,Italie,773,4.6,,4.492628,0.0
+Veneto Rosso del Bepi,Italie,3747,4.6,2.9060361,2.4586756,3.0
+Valbuena 5º,Espagne,72784,4.6,3.459332,3.6818671,4.7
+VIK,Chili,8493,4.6,3.4820104,3.008086,4.5
+Touran,Espagne,274,4.6,3.0739422,3.1344543,0.0
+Tordiz 40 Year Old Tawny Port,Portugal,474,4.6,,3.2046902,4.6
+Tokaji Aszú 6 Puttonyos,Hongrie,2366,4.6,,4.829434,3.0116591928251117
+The Journeyman,Afrique du Sud,231,4.6,3.225787,3.6566563,0.0
+Tenuta Tignanello 'Solaia',Italie,33143,4.6,2.9705827,3.0641637,4.675
+Tenuta Guado al Tasso Matarocchio,Italie,1875,4.6,3.0939744,3.176831,4.7
+Sperss Barolo,Italie,10950,4.6,4.3828244,4.666537,4.581818181818181
+Sorì Tildìn (Barbaresco) Langhe,Italie,3955,4.6,4.0354605,4.7012973,3.5666666666666664
+Sorì San Lorenzo,Italie,3857,4.6,4.219747,4.7262807,3.425
+Sir Winston Churchill Brut Champagne,France,12873,4.6,,4.4169583,4.6
+Single Barrel Champagne Grand Cru 'Le Mesnil-sur-Oger',France,34,4.6,,4.9100003,0.0
+Secentenario,Italie,96,4.6,2.7649999,2.7810295,4.6
+Scharzhofberger Riesling Auslese,Allemagne,1666,4.6,,4.5937014,4.55
+Sassicaia,Italie,107646,4.6,3.8796737,3.488095,4.22
+Saint-Émilion Grand Cru (Premier Grand Cru Classé),France,22896,4.6,3.5282295,3.382386,4.074058870644773
+Rutherford,États-Unis,16322,4.6,3.2889876,3.8225102,4.666666666666667
+Rubicon,États-Unis,6421,4.6,3.4042459,3.8794467,4.55
+Rosé,France,3605,4.6,,4.410962,4.6
+Reserve,États-Unis,1175,4.6,,,1.5333333333333332
+Red,États-Unis,3639,4.6,3.4990153,3.5781045,4.536827586206896
+Recioto della Valpolicella (Monte Lodoletta),Italie,227,4.6,,,1.5666666666666667
+R.D Extra Brut Champagne (Récemment Dégorgé),France,7737,4.6,,4.4763446,3.066666666666666
+Quiñon de Valmira,Espagne,377,4.6,3.5867922,3.7825353,4.7
+Pingus,Espagne,6013,4.6,3.643772,3.801916,4.66
+Pignan Châteauneuf-du-Pape Réserve Rouge,France,1881,4.6,2.7835867,3.0647666,4.5
+Pessac-Léognan (Premier Grand Cru Classé),France,39605,4.6,4.236691,4.228074,4.306666666666667
+Perpiero,Italie,351,4.6,3.2624788,3.015028,4.7
+Pauillac (Premier Grand Cru Classé),France,73615,4.6,4.116994,4.0950465,4.614270563280697
+Palo Cortado Añada,Espagne,27,4.6,,3.8064706,0.0
+Opus One,États-Unis,77053,4.6,3.3543363,3.816858,4.65
+Octavius Amarone della Valpolicella Riserva,Italie,450,4.6,2.3830216,2.1438131,0.0
+Nosotros Single Vineyard Nómade,Argentine,9995,4.6,2.8981028,2.6501634,4.5
+Nettare Veneto Bianco,Italie,87,4.6,,3.0620143,1.6
+Musigny Grand Cru (Cuveé Vieilles Vignes),France,3533,4.6,2.6746163,4.1379943,3.0999999999999996
+Musigny Grand Cru,France,739,4.6,2.7951787,4.298304,1.853658536585366
+Montrachet Grand Cru Marquis de Laguiche,France,1970,4.6,,3.1082401,4.8
+Millecento Brunello di Montalcino Riserva,Italie,1364,4.6,3.5395062,3.8132358,4.55
+Maya,États-Unis,1570,4.6,3.5358036,3.8841164,2.3
+Malleolus de Sanchomartin,Espagne,3655,4.6,3.6502056,3.7755213,4.5
+Lodovico,Italie,3860,4.6,2.9573863,2.989398,4.642857142857143
+Lithology Cabernet Sauvignon,États-Unis,148,4.6,3.7305274,3.3221939,4.5
+Les Riceys Cuvée Cyriès Brut Millesimé Champagne,France,43,4.6,,4.4221816,0.0
+Les Pavots,États-Unis,4010,4.6,3.8089683,3.7985215,4.7
+La Piu Belle,Chili,13420,4.6,,,4.4
+La Nieta,Espagne,4508,4.6,3.6623647,3.6110392,4.6
+La Joie,États-Unis,2285,4.6,3.975856,3.8834448,4.55
+La Grande Dame Brut Rosé Champagne,France,1118,4.6,,4.4572988,4.65
+La Faraona Bierzo (Corullón),Espagne,423,4.6,2.9734766,3.6081464,0.0
+L'Hermitage,France,8592,4.6,4.076523,3.5292687,4.6
+L'Extravagant de Doisy-Daëne Sauternes,France,465,4.6,,4.4039354,3.5
+L'Amarone del Maestro Fornaser,Italie,1031,4.6,2.0623736,2.0171123,0.0
+Kurni Marche,Italie,10261,4.6,3.0118766,3.0215945,4.5
+Insignia,États-Unis,30674,4.6,3.4895406,3.8176463,4.625
+Grande Cuvée Luigi Moio,Italie,80,4.6,,2.8484375,1.5333333333333334
+Grande Cuvée,France,28513,4.6,,4.360128,4.6
+Grand Vin Pauillac (Premier Grand Cru Classé),France,38521,4.6,4.1408772,4.134296,4.66
+Gran Buig Priorat,Espagne,125,4.6,3.4454544,3.7094045,0.0
+Graacher Himmelreich Riesling Auslese 'Goldkapsel',Allemagne,119,4.6,,4.6801662,0.0
+Ginés Liébana Pedro Ximénez,Espagne,120,4.6,,2.6156108,2.3
+Finca Garbet,Espagne,573,4.6,3.1087425,3.0190568,4.5
+Falletto Barolo Le Rocche del Falletto Riserva,Italie,622,4.6,4.443436,4.675603,3.3000000000000003
+EABA,États-Unis,151,4.6,3.7678387,3.2767448,0.0
+Dieci Brunello di Montalcino,Italie,43,4.6,3.9116054,3.931605,4.6
+Côte-Rôtie La Turque,France,4891,4.6,3.9625063,3.877427,4.625
+Côte-Rôtie La Mouline,France,4380,4.6,3.8802671,3.8720932,3.45
+Côte-Rôtie La Landonne,France,4068,4.6,4.1336656,3.8996758,4.6
+Cuve 38 Blanc de Blancs Champagne (La Réserve Perpétuelle),France,149,4.6,,4.669732,4.6
+Croce Del Gal Riserva Amarone della Valpolicella Classico,Italie,188,4.6,2.5947554,2.4575524,0.0
+Cristal Rosé Brut Champagne (Millésimé),France,5883,4.6,,4.497997,4.7
+Cristal Brut Champagne (Millésimé),France,42456,4.6,,4.416872,4.642857142857143
+Costa Russi (Barbaresco) Langhe,Italie,2876,4.6,3.962805,4.6500616,4.05
+Continuum Estate,États-Unis,6949,4.6,3.5678773,3.8341439,4.625
+Contador Rioja,Espagne,2240,4.6,3.7109313,3.5871537,4.6000000000000005
+Collection Vintage 2000 Brut,France,58,4.6,,4.3014283,4.7
+Colheita Porto Branco,Portugal,65,4.6,,3.349586,4.6
+Clos de Tart Grand Cru,France,214,4.6,2.92445,4.0906606,0.0
+Clos Saint-Denis Grand Cru,France,40,4.6,2.1033332,4.3766665,0.0
+Clos Apalta,Chili,23256,4.6,3.546138,3.067916,4.6
+Cirsion Rioja,Espagne,3474,4.6,3.8563433,3.711729,2.25
+Château Margaux (Premier Grand Cru Classé),France,45350,4.6,3.8258963,4.170338,4.635714285714286
+Chevalier-Montrachet Grand Cru,France,2340,4.6,,3.2542887,4.7
+Chateauneuf-du-Pape Réserve des Célestins,France,1633,4.6,3.0196457,3.1329765,2.3
+Campo del Titari Amarone della Valpolicella Classico Riserva,Italie,2946,4.6,2.367429,2.2957995,4.6
+Campo Inferi Amarone della Valpolicella Classico Riserva,Italie,2112,4.6,2.4400218,2.2221038,4.633333333333333
+Calcarole Amarone della Valpolicella Classico,Italie,2757,4.6,2.1739233,2.199505,4.5
+Cabernet Sauvignon Coeur De Vallée,États-Unis,544,4.6,3.4367423,3.6127534,0.0
+Cabernet Sauvignon (Signature),États-Unis,13730,4.6,3.4223385,3.4052458,4.6
+Cabernet Sauvignon,États-Unis,157944,4.6,3.1468155,3.2843688,3.8108796296296292
+CASK 23 Cabernet Sauvignon,États-Unis,9464,4.6,3.3346488,3.3622434,4.6
+Bure Alto Amarone  della Valpolicella Classico Riserva,Italie,132,4.6,2.086923,2.2535899,2.35
+Brut Champagne,France,146377,4.6,,4.3640895,4.58
+Bolgheri Superiore,Italie,47939,4.6,3.8922803,3.4603708,4.586184210526316
+Blanc des Millénaires,France,5581,4.6,,4.454617,4.4
+Beckstoffer To Kalon Vineyard Cabernet Sauvignon,États-Unis,1557,4.6,3.3129437,3.356546,4.5
+Bassolino di Sopra Brunello di Montalcino,Italie,174,4.6,3.7133453,3.8497093,4.55
+Barolo Riserva Villero,Italie,803,4.6,4.602165,4.699738,4.6
+Barolo Riserva Monprivato Cà d'Morissio,Italie,588,4.6,4.506091,4.6706405,4.625
+Barolo Arione,Italie,259,4.6,4.1590405,4.0684004,3.4749999999999996
+Au Paradis Cabernet Sauvignon,États-Unis,3004,4.6,3.2170093,3.2921212,4.5
+Aszú 6 Puttonyos Tokaj,Hongrie,54,4.6,,5.0,0.0
+Aquilon Garnacha,Espagne,1343,4.6,2.9604108,3.093791,4.6
+Ampio,Italie,481,4.6,3.1249957,3.1355183,4.6
+Almaviva,Chili,48075,4.6,3.53141,3.0401866,4.533333333333333
+Alabaster,Espagne,2708,4.6,3.296595,2.7305465,4.6499999999999995
+Aegusa,Italie,81,4.6,,,0.0
+Adrianna Vineyard Mundus Bacillus Terrae Malbec,Argentine,1358,4.6,2.6043994,2.8717265,4.566666666666666
+A50 Amarone della Valpolicella,Italie,100,4.6,1.8407408,2.0425925,4.5
+888 Pinotage Gold,Afrique du Sud,234,4.6,2.963426,2.7733798,0.0
+40 Anos Tawny Port,Portugal,57,4.6,,3.1503105,4.6
+'Giulio Ferrari' Riserva del Fondatore,Italie,12592,4.6,,3.3285792,4.14
+Étoile Rosé,France,183,4.5,,3.7696438,4.5
+Zeltinger Sonnenuhr Beerenauselese Riesling,Allemagne,49,4.5,,4.3747597,0.0
+Yarden Katzrin,Israël,894,4.5,2.9930568,2.9386032,0.0
+Vosne-Romanée Premier Cru Les Petits Monts,France,105,4.5,2.578253,4.132008,0.0
+Vosne-Romanée 1er Cru Aux Malconsorts Christiane,France,309,4.5,2.6136842,4.068446,0.0
+Vosne-Romanée 1er Cru 'Aux Malconsorts',France,681,4.5,2.6187313,4.2401404,4.5
+Vite Talin Barolo,Italie,131,4.5,4.60011,4.605494,4.6
+Vintage Port,Portugal,2614,4.5,,2.8633018,4.5
+Vinhas Velhas Tinto,Portugal,736,4.5,2.9834611,2.9712174,4.6
+Vinha dos Utras,Portugal,65,4.5,,3.6303763,0.0
+Vin de Pays de l'Hérault,France,8933,4.5,3.4815395,3.696465,4.533333333333333
+Vin de Paille,France,35,4.5,,,0.0
+Vigna del Suolo Brunello di Montalcino,Italie,201,4.5,3.4924903,3.786483,4.6
+Vigna Grande Cerzito Taurasi Riserva,Italie,581,4.5,3.0121548,2.5461802,4.5
+Vieux Marc de Bandol,France,102,4.5,,,0.0
+Vieilles Vignes Mazis-Chambertin Grand Cru,France,218,4.5,2.813488,4.1207047,0.0
+Vieille Vigne Griottes-Chambertin Grand Cru,France,257,4.5,2.5798235,4.1788754,0.0
+Valpolicella Superiore Monte Lodoletta,Italie,13024,4.5,2.86965,3.5089638,4.5
+Valpolicella Classico Superiore,Italie,12262,4.5,2.5882344,3.468134,2.2
+VV 26 Blanc de Blancs Vieilles Vignes Grand Cru Brut,France,314,4.5,,4.2405767,4.5
+Trittenheimer Apotheke,Allemagne,27,4.5,,4.5442586,0.0
+Trasnocho,Espagne,3399,4.5,3.795829,3.7219884,4.5
+Tourmaline Pomerol,France,237,4.5,3.5292711,3.317743,0.0
+Toscana Rosso,Italie,2799,4.5,3.0737605,3.1433663,4.56
+Toscana Bianco,Italie,833,4.5,,3.8539917,4.5
+Tokaji Aszú 5 Puttonyos,Hongrie,5449,4.5,,4.960792,4.458160237388724
+Tignanello,Italie,142513,4.5,2.9867094,3.082814,4.5375
+The Stork,Afrique du Sud,1638,4.5,3.072115,3.364303,4.5
+The Armagh Shiraz,Australie,2472,4.5,3.1637821,3.073255,0.0
+Terrasse à l'Ombre Côtes du Rhône,France,819,4.5,3.3993769,3.4413016,4.5
+Tenuta Nuova Brunello di Montalcino,Italie,20934,4.5,3.598853,3.820147,4.5
+Tenuta Guado al Tasso Bolgheri Superiore,Italie,33392,4.5,3.8648884,3.4173176,3.325
+Son Negre,Espagne,521,4.5,3.02895,3.1135416,4.6
+Silex,France,8386,4.5,,3.982279,4.45
+Series C,Afrique du Sud,3027,4.5,3.3559442,3.6215973,4.533333333333333
+Sed de Caná,Espagne,345,4.5,3.6385832,3.3869867,2.35
+S.L.V. Cabernet Sauvignon,États-Unis,6560,4.5,3.3895879,3.4074993,4.6
+Rujno Rosso,Italie,532,4.5,3.1765625,2.5459697,1.5333333333333332
+Rosso,Italie,88,4.5,3.2833154,3.0058823,2.25
+Romanée-Saint-Vivant Grand Cru,France,463,4.5,2.722061,4.264476,1.175
+Rocche dell'Annunziata Torriglione Barolo,Italie,1222,4.5,4.4885283,4.6348357,0.0
+Rocche dell'Annunziata Barolo Riserva,Italie,1609,4.5,4.43705,4.720542,0.0
+Rocche dell'Annunziata Barolo,Italie,218,4.5,4.3437104,4.4050417,0.0
+Riserva vecchie viti dei Capalot e delle Brunate Barolo,Italie,338,4.5,4.548084,4.6662955,4.7
+Riesling 'Le Gallais' Wiltinger Braune Kupp Auslese,Allemagne,242,4.5,,4.801955,4.6
+Richebourg Grand Cru,France,1296,4.5,2.7235265,4.2243257,0.0
+Ribera del Duero,Espagne,69278,4.5,3.5338376,3.6902692,4.5
+Reserve Chardonnay,Afrique du Sud,396,4.5,,3.5544543,0.0
+Relentless,États-Unis,6633,4.5,3.6433094,3.0464847,4.4
+Regina del Bosco R.Quarantottomesi,Italie,109,4.5,3.3928568,3.1082141,4.6
+Redigaffi Toscana,Italie,5212,4.5,3.018877,3.0276775,3.8714285714285714
+Red Blend,États-Unis,457,4.5,3.5155401,3.7789743,4.116129032258065
+Recioto della Valpolicella Classico Riserva,Italie,27,4.5,,,0.0
+Quarto Vecchio Amarone della Valpolicella Classico Riserva,Italie,292,4.5,2.4433208,2.3284905,0.0
+Pym-Rae Red Blend,États-Unis,273,4.5,3.6251981,3.9538462,4.5
+Puligny-Montrachet Premier Cru La Garenne,France,200,4.5,,3.101746,0.0
+Pour Vous Sancerre,France,125,4.5,,3.9860346,4.5
+Poggio all'Oro Brunello di Montalcino Riserva,Italie,7033,4.5,3.508806,3.871886,4.4
+Pieve Santa Restituta Sugarille Brunello di Montalcino,Italie,3717,4.5,3.6711247,3.915702,4.5
+Pieve Santa Restituta Rennina Brunello di Montalcino,Italie,3393,4.5,3.645553,3.89392,4.5
+Pietro Dal Cero Amarone della Valpolicella,Italie,6424,4.5,2.3993819,2.378941,4.466666666666667
+Pian delle Vigne Vignaferrovia Brunello di Montalcino Riserva,Italie,2165,4.5,3.5629516,3.843529,4.433333333333334
+Petrucci Melo,Italie,61,4.5,2.5015337,3.070184,4.5
+Pessac-Léognan Blanc (Grand Cru Classé de Graves),France,1206,4.5,,2.847803,1.9561809045226128
+Per Sempre Syrah Toscana,Italie,711,4.5,2.9470897,3.0247424,4.5
+Pedrouzos Godello,Espagne,109,4.5,,,0.0
+Pedro Ximenez Tradición 20 Years Old Vos,Espagne,954,4.5,,3.0485075,4.5
+Papillon,États-Unis,30682,4.5,3.4377155,3.8795583,4.5
+Ozanne Blanc de Blancs Brut Champagne Grand Cru 'Avize',France,484,4.5,,4.436636,4.5
+Overture,États-Unis,16804,4.5,3.3019812,3.7507076,4.5
+One Point Five Cabernet Sauvignon,États-Unis,16341,4.5,3.4699059,3.6205707,4.5
+Oh Carlos Manuel! Tinto,Portugal,58,4.5,3.289155,3.0,0.0
+NŌ Rosso,Italie,297,4.5,2.959613,2.7097607,4.5
+Negru de Purcari Limited Edition,Moldavie,970,4.5,,,4.5
+N.P.U. Extra Brut Champagne (Nec Plus Ultra),France,1482,4.5,,4.434429,4.5
+Montrachet Grand Cru Blanc,France,700,4.5,,3.220548,0.0
+Monte Bello,États-Unis,11978,4.5,4.025771,3.931059,4.5
+Mironia Black Edition Tempranillo,Espagne,187,4.5,3.5863314,3.4979887,0.0
+Meursault 1er Cru 'Genevrières' Blanc,France,311,4.5,,3.3573976,0.0
+Messorio,Italie,5514,4.5,3.0368488,3.0969987,4.566666666666666
+Mazzano Amarone Della Valpolicella Classico,Italie,3276,4.5,2.589487,2.3791337,4.5
+Mas Via Gran Reserva Brut,Espagne,408,4.5,,3.0205164,4.5
+Marmar,Allemagne,514,4.5,,4.2271385,4.5
+Mark Bradford Vineyard Pinot Noir,États-Unis,254,4.5,2.177391,3.90147,0.0
+Magma,Italie,748,4.5,3.105533,2.6935751,0.0
+Madonna delle Grazie Brunello di Montalcino,Italie,2747,4.5,3.6632488,3.8020136,4.625
+MV Rosé,France,588,4.5,,4.088041,4.5
+MV,France,4763,4.5,,4.2182946,4.5
+Lux Vitis,Italie,530,4.5,3.4735754,3.118875,4.5
+Lupi e Sirene Riserva,Italie,1292,4.5,3.6573942,3.8292072,4.5
+Lupi Rezerva,Moldavie,7604,4.5,,,4.55
+Luce Brunello di Montalcino,Italie,6544,4.5,3.6287549,3.8107924,4.45
+Limited Edition 10 Vendemmie,Italie,9453,4.5,2.764013,3.6990364,4.5
+Lilium Est Amarone Della Valpolicella Riserva,Italie,733,4.5,2.4084918,2.3784134,4.5
+Les Poyeux Saumur Champigny,France,2005,4.5,3.5094397,3.9530256,4.5
+Les Ouvrées Rodin Chambertin-Clos de Bèze Grand Cru,France,33,4.5,2.429747,4.3482275,0.0
+Les Clos Chablís Grand Cru,France,1750,4.5,,4.0021567,4.5
+Le Montrachet Grand Cru,France,236,4.5,,3.2913992,0.0
+Le Désir,États-Unis,1694,4.5,3.9275227,3.8459346,4.5
+Le Bourg Saumur Champigny,France,1264,4.5,3.4819372,3.9739747,4.7
+La Muse,États-Unis,1948,4.5,3.8545506,3.8187344,4.6
+La Landonne Côte-Rôtie,France,584,4.5,3.6654665,3.9599433,0.0
+La Grande Dame Brut Champagne,France,17474,4.5,,4.434174,4.5
+La Grande Année Brut Champagne,France,24646,4.5,,4.3674808,4.5
+LR,Italie,503,4.5,,2.8259842,4.55
+Kupra Marche,Italie,637,4.5,3.2476058,3.2562952,0.0
+Kapnios Aglianico,Italie,1134,4.5,2.6401153,2.4206295,4.6
+Kalós Cru Gran Reserva Malbec,Argentine,3351,4.5,3.2759695,2.821417,4.4
+Isosceles,États-Unis,18920,4.5,3.697372,3.8931477,4.5
+Il San Lorenzo Bianco,Italie,673,4.5,,3.7512586,0.0
+Ice Wine de Purcari,Moldavie,722,4.5,,,4.6
+Hérédita Châteauneuf-du-Pape,France,185,4.5,2.9427907,3.0220466,4.5
+Howell Mountain Cabernet Sauvignon,États-Unis,6466,4.5,3.5621636,3.415652,4.6
+Hommage à Jacques Perrin Châteauneuf-du-Pape,France,6121,4.5,2.902904,3.1056042,3.8428571428571425
+Habemus Lazio Rosso (Etichetta Rossa),Italie,298,4.5,3.2794333,3.2626112,4.6
+Grenache,États-Unis,34,4.5,3.1040003,2.9040003,4.5
+Grande Cuvée I Terlaner,Italie,411,4.5,,3.2390347,0.0
+Grand Vin de Château Palmer (Grand Cru Classé),France,29026,4.5,3.7986615,4.143142,3.9875
+Grand Siècle Champagne (Grande Cuvée),France,9824,4.5,,4.2405996,4.5
+Gran VU Blend,Argentine,2773,4.5,3.571008,2.9918435,4.4
+Gran Reserva Ribera del Duero,Espagne,2777,4.5,3.507639,3.7277484,4.4
+Gran Reserva 890,Espagne,11347,4.5,3.687399,3.7349415,4.5
+Gran Enemigo,Argentine,18739,4.5,3.5904343,3.618031,4.5
+Grace Vineyard Pinot Noir,États-Unis,385,4.5,2.180648,3.6374085,0.0
+Gorgona Rosso,Italie,119,4.5,2.6971886,3.18,0.0
+Gaia & Rey Langhe,Italie,5909,4.5,,3.221216,4.6
+Fossati Barolo,Italie,116,4.5,4.80064,4.790533,0.0
+Flor de Pingus,Espagne,32932,4.5,3.5276117,3.7273152,4.5
+Flaccianello della Pieve,Italie,21518,4.5,3.1631904,3.19551,4.48
+Finn Pinot Noir,États-Unis,331,4.5,2.0485728,3.3614087,0.0
+Finca Bella Vista Malbec,Argentine,7663,4.5,2.6162858,2.8418646,4.5
+Finca Altamira Malbec,Argentine,8093,4.5,2.6432955,2.8588457,4.6
+Ferro,Italie,499,4.5,3.1704433,3.0308511,4.5
+Falletto Barolo Le Rocche del Falletto,Italie,1883,4.5,4.315218,4.6375737,4.566666666666666
+Faith,Afrique du Sud,1048,4.5,3.4755833,2.907444,0.0
+FAY Cabernet Sauvignon,États-Unis,10840,4.5,3.2626133,3.3367584,4.5
+Es Riserva,Italie,371,4.5,2.7557464,2.3256347,0.0
+Ermitage l'Ermite Blanc,France,296,4.5,,2.3164318,2.35
+Elevage Branco,Portugal,53,4.5,,2.3968422,0.0
+El Carretil,Espagne,748,4.5,3.8857245,3.374203,2.3
+Echezeaux Grand Cru,France,1311,4.5,2.6843195,4.1542106,0.8141592920353983
+Duna Mirante Primitivo di Manduria,Italie,96,4.5,2.2,1.875,0.0
+Douro Pintas Tinto,Portugal,4167,4.5,3.659873,3.1070662,4.55
+Don PX Selección,Espagne,326,4.5,,2.3066726,4.55
+Dominus (Christian Moueix),États-Unis,22117,4.5,3.5360577,3.8267472,4.7
+Dom Ruinart Blanc de Blancs Brut Champagne,France,18466,4.5,,4.2583113,4.6
+Denarius Graves,France,129,4.5,4.151493,4.5049257,2.3
+Darmagi Langhe,Italie,3184,4.5,3.1359265,2.4285307,3.425
+Cuvée des Hussards Vieilles Vignes Brut Champagne Premier Cru,France,47,4.5,,4.2874575,0.0
+Cuvée des Enchanteleurs Brut Champagne,France,1732,4.5,,4.4428163,4.6499999999999995
+Cuvée Nicolas François Billecart Brut Champagne,France,6228,4.5,,4.494786,4.4
+Cuvée N Viñas Viejas,Espagne,263,4.5,3.4799144,2.9813602,0.0
+Cuvée Madame Barsac,France,94,4.5,,4.267254,0.0
+Cuvée Ernest Riesling Alsace Sélection de Grains Nobles,France,68,4.5,,3.7766669,4.5
+Cuvée Annamaria Clementi (Extra Brut),Italie,7928,4.5,,3.8442688,4.466666666666667
+Crichet Pajè Barbaresco,Italie,584,4.5,4.153728,4.666076,0.0
+Coteau de Vernon Condrieu,France,2015,4.5,,2.4052055,0.0
+Cosimo Varvaglione Collezione Privata Primitivo di Manduria,Italie,5016,4.5,2.2416334,1.8888605,4.4
+Conteisa Langhe,Italie,2295,4.5,3.5828598,3.4485388,4.5
+Comtes de Champagne Blanc de Blancs,France,27449,4.5,,4.404773,4.5
+Collina Rionda di Serralunga Barolo,Italie,156,4.5,3.8716595,4.2120852,0.0
+Collection Fût de Chêne Brut Champagne Grand Cru 'Ay',France,58,4.5,,4.5375295,0.0
+Clos des Goisses Champagne,France,4662,4.5,,4.4161983,0.0
+Clos de Tart Grand Cru Monopole,France,4948,4.5,2.7014532,4.171164,4.7
+Clos de Bèze Grand Cru,France,635,4.5,2.6774049,4.059696,0.0
+Clos Sainte Hune Riesling Alsace,France,4106,4.5,,4.4354753,4.5249999999999995
+Clos Le Léon Dizy Champagne,France,53,4.5,,4.4594216,4.5
+Clio,Espagne,24553,4.5,2.9357808,2.9907131,4.5
+Ciliegio Amarone della Valpolicella,Italie,76,4.5,2.0613334,2.2506666,0.0
+Châteauneuf-du-Pape Amiral G,France,536,4.5,3.2330108,3.0538173,4.6
+Chloe Chardonnay,États-Unis,458,4.5,,3.1829827,0.0
+Chassagne-Montrachet Premier Cru Morgeot Marquis de Laguiche ,France,1640,4.5,,3.2229097,4.55
+Charlemagne Grand Cru,France,201,4.5,,3.5709617,0.0
+Charity Edition Nebbiolo d'Alba Arione,Italie,29,4.5,4.9334555,4.851397,0.0
+Chapelle-Chambertin Grand Cru,France,188,4.5,2.607034,4.219708,0.0
+Champagne,France,1021,4.5,,4.522913,0.0
+Chambolle-Musigny 1er Cru 'Les Amoureuses',France,59,4.5,2.426795,4.3290386,0.0
+Chambertin-Clos-de-Beze Grand Cru,France,611,4.5,2.48205,4.1592665,0.0
+Chambertin-Clos de Bèze Vieilles Vignes Grand Cru,France,358,4.5,2.7000108,4.131356,4.6
+Chablis Grand Cru 'Valmur',France,1653,4.5,,3.878626,0.0
+Cerretta Barolo Riserva (Vigna Bricco),Italie,2065,4.5,4.583418,4.644659,4.466666666666667
+Ca’ del Merlo Rosso Veneto,Italie,2198,4.5,2.7463377,2.4017632,4.45
+Castillo Ygay Gran Reserva Especial Tinto,Espagne,23170,4.5,3.7520678,3.7596183,4.6
+Camí Pesseroles,Espagne,1083,4.5,3.3610651,3.5379124,0.0
+Campolongo di Torbe Amarone della Valpolicella Classico,Italie,4392,4.5,2.3750587,2.2195082,3.0
+Campogiovanni Brunello di Montalcino Riserva Il Quercione,Italie,1107,4.5,3.4581358,3.803408,4.5
+Cabochon Doppio Zero,Italie,217,4.5,,3.8407547,4.6
+Brunello di Montalcino Riserva Pianrosso Santa Caterina d'Oro,Italie,1971,4.5,3.66428,3.9761274,4.5
+Brunello di Montalcino Riserva Madonna del Piano,Italie,3506,4.5,3.7303543,3.909161,4.6
+Brunate  Barolo,Italie,1289,4.5,4.4732776,4.668839,2.25
+Bramare Marchiori Vineyard Malbec,Argentine,8713,4.5,2.5201719,2.6405706,0.0
+Bonnes-Mares Grand Cru,France,2595,4.5,2.7975812,4.1815014,1.2785977859778597
+Boal Madeira,Portugal,1023,4.5,,4.0002613,4.6
+Blueline Estate Cabernet Sauvignon,États-Unis,1321,4.5,3.4550798,3.3677397,4.5
+Bienvenues-Bâtard-Montrachet Grand Cru,France,480,4.5,,3.3403745,0.9974820143884893
+Bibbona,Italie,5981,4.5,3.022905,3.1019683,4.6
+Bentrock Vineyard Chardonnay,États-Unis,118,4.5,,3.264231,0.0
+Ben Ryé Passito di Pantelleria,Italie,21351,4.5,,,4.4
+Belle Epoque Brut Champagne,France,20992,4.5,,4.3558774,4.4
+Barolo Riserva Speciale Granbussia,Italie,56,4.5,3.378777,3.5614388,0.0
+Barolo Riserva Granbussia,Italie,1728,4.5,4.342974,4.5848675,4.6
+Barolo Riserva Cannubi 1752,Italie,451,4.5,4.3238544,4.2767024,0.0
+Barolo Cascina Francia,Italie,6045,4.5,4.3313737,4.5209603,4.5874999999999995
+Barolo Bussia Romirasco,Italie,1544,4.5,4.434198,4.677045,0.0
+Barbaresco Albesani,Italie,183,4.5,4.0751266,4.6250806,4.5
+Barbaresco,Italie,24516,4.5,4.015384,4.6545653,4.54375
+Baffonero Maremma Toscana,Italie,1682,4.5,3.180012,3.1772227,2.25
+Aszú Eszencia,Hongrie,283,4.5,,4.7944446,0.0
+Aszú 6 puttonyos,Hongrie,2450,4.5,,4.8832455,4.4
+Amour de Deutz Millésimé Brut Champagne,France,5532,4.5,,4.2636185,4.55
+Amour de Deutz Millesimé Rosé Brut Champagne,France,536,4.5,,4.309211,4.6
+Amarone della Valpolicella Classico Riserva (Sergio Zenato),Italie,9963,4.5,2.303083,2.2202897,4.5249999999999995
+Amarone della Valpolicella Classico Mater,Italie,739,4.5,2.2984686,2.3198988,0.0
+Amarone Stella,Italie,533,4.5,2.3210618,2.858761,3.0666666666666664
+Amarone Senza Titolo,Italie,225,4.5,1.9685713,2.3472683,0.0
+Amancio,Espagne,2076,4.5,3.8004334,3.690204,0.0
+Alàuda,Italie,670,4.5,3.036426,3.071004,0.0
+Altura,Chili,2733,4.5,3.4341447,3.0880187,4.6
+Alpine Hillside Pinot Noir,États-Unis,46,4.5,2.0811193,3.6003733,0.0
+Adrianna Vineyard Fortuna Terrae Malbec,Argentine,2589,4.5,2.59951,2.870812,4.6
+Aconcagua Valley,Chili,18482,4.5,3.5512285,3.1234899,4.46
+Academia Purcari Rară Neagră,Moldavie,73,4.5,,,4.5
+802.A Superblend,Australie,66,4.5,3.1516244,3.0317688,4.5
+60 Sessantanni Old Vines Primitivo di Manduria,Italie,94289,4.5,2.2129438,1.789258,4.45
+5 Stelle Sfursat,Italie,10740,4.5,4.336158,4.598433,4.4750000000000005
+40 Years Old Port,Portugal,37,4.5,,2.9842556,4.5
+1694 Classification Red,Afrique du Sud,1841,4.5,3.1595838,3.0413423,4.5
+'Giulio Ferrari' Riserva del Fondatore Rosé,Italie,308,4.5,,2.815,0.0
+Παλιές Ρίζες (Palies Rizes),Grèce,313,4.4,2.8617198,4.299877,0.0
+d'Alceo,Italie,3133,4.4,3.1084447,3.0984578,2.966666666666667
+Vürsù Barolo Campè,Italie,6260,4.4,4.385903,4.5237427,4.48
+Vürsù Barbaresco Valeirano,Italie,3263,4.4,4.1729035,4.6811347,4.6
+Vürsù Barbaresco Starderi,Italie,4414,4.4,4.2625036,4.747835,4.4
+Vürsù Barbaresco Gallina,Italie,4262,4.4,4.1603694,4.733941,4.4
+Vénus Blanc de Blancs Brut Nature Champagne Grand Cru 'Avize',France,794,4.4,,4.5457225,0.0
+Vosne-Romanée 1er Cru 'Les Suchots',France,651,4.4,2.7901998,4.11411,0.0
+Vittorio Moretti,Italie,2025,4.4,,3.9050803,4.4
+Vinha Centenaria Branco,Portugal,281,4.4,,3.6559052,4.5
+Vin Santo di Montepulciano Occhio di Pernice,Italie,1867,4.4,,4.421994,1.15
+Vigneto Bellavista Chianti Classico,Italie,1402,4.4,3.6912632,3.8469875,3.62
+Vignes Centenaires 'La Richemone',France,182,4.4,2.1420696,3.9412558,0.0
+Vigna Madonna Assunta La Villa Barolo Riserva,Italie,470,4.4,4.1419063,4.232108,4.5
+Vigna Colonnello Barolo Riserva Bussia,Italie,957,4.4,4.275629,4.46639,4.5
+Vigna Cappella di S. Stefano Perno Barolo,Italie,2514,4.4,4.363103,4.5566106,4.4
+Vieilles Vignes La Parcelle 8 Apalta,Chili,184,4.4,3.3099706,3.02956,4.4
+Vieilles Vignes Châteauneuf-du-Pape Blanc,France,2587,4.4,,3.109061,0.0
+Valmezzane Amarone della Valpolicella,Italie,799,4.4,2.2542634,2.420255,4.45
+Valdegatiles Ribera del Duero,Espagne,587,4.4,3.2869773,3.8034573,0.0
+VT Vendemmia Tardiva,Italie,1096,4.4,,,0.0
+V.P Extra Brut Champagne Grand Cru 'Ambonnay',France,2079,4.4,,4.4975915,4.4
+V Red,Afrique du Sud,1715,4.4,3.6092794,3.8528886,4.5
+Turriga Isola dei Nuraghi,Italie,14641,4.4,3.1290214,2.4508407,4.5
+Triglia Negroamaro Rosato,Italie,278,4.4,,3.2711766,4.7
+Treinta y Dos Pinot Noir,Argentine,3417,4.4,1.92798,3.2335303,4.5
+Trebbiano d'Abruzzo,Italie,5834,4.4,,3.9287908,3.9178082191780828
+Toscana I Sodi di San Niccolo,Italie,8853,4.4,3.0631628,3.2615259,4.4
+Torre Muga,Espagne,8767,4.4,3.914909,3.7799828,4.5
+Toro,Espagne,60705,4.4,3.3199553,2.6952467,4.45
+Toknar,Chili,2033,4.4,,,0.0
+Todeschini Distique Saint-Émilion Grand Cru,France,185,4.4,3.6744986,3.4609382,0.0
+Tinto,Espagne,65625,4.4,3.4551678,3.5793161,3.4168623265741727
+The Mackenzie,Afrique du Sud,1220,4.4,3.6190875,3.872975,4.4
+Tessons Clos de Mon Plaisir Meursault,France,761,4.4,,3.2486935,0.0
+Tenuta Montebello Picconero,Italie,2011,4.4,3.1008515,3.0374305,4.4
+St. Henri Shiraz,Australie,17326,4.4,3.1030886,3.0152445,4.4
+Sous L'Escalier Petite Arvine du Valais,Suisse,164,4.4,,4.512903,0.0
+Siepi,Italie,8129,4.4,2.9856336,3.156144,3.52
+Series M,Afrique du Sud,2995,4.4,3.2512286,3.6752222,4.4750000000000005
+Semel Pater,Italie,710,4.4,2.978282,3.131975,0.0
+Schlehdorn Riesling Trocken,Allemagne,202,4.4,,4.1531935,0.0
+Scharzhofberger Riesling Spätlese,Allemagne,1564,4.4,,4.656243,2.25
+Scharzhofberger Riesling Kabinett,Allemagne,3047,4.4,,4.710466,4.45
+Sauternes (Premier Grand Cru Classé),France,19239,4.4,,4.339853,3.2979742173112343
+Saperavi,Moldavie,4745,4.4,,,2.2
+Sancerre 'Clos la Néore',France,699,4.4,,4.02023,4.533333333333333
+Saint-Émilion Grand Cru (Grand Cru Classé),France,3498,4.4,3.5314653,3.3835192,0.0
+Saint-Émilion Grand Cru,France,1527,4.4,3.5239754,3.4871178,2.177658815132048
+Saint-Emilion Grand Cru (Premier Grand Cru Classé),France,1986,4.4,3.50596,3.3021338,2.3
+Saffredi,Italie,10499,4.4,3.121578,3.1319983,4.4
+Réservé Châteauneuf-du-Pape,France,297,4.4,2.9267964,3.1068087,0.0
+Réserve Côtes-du-Rhône,France,4027,4.4,3.154594,3.3780417,4.5
+Rosé Brut Champagne Grand Cru 'Ambonnay',France,1782,4.4,,4.317616,4.4
+Romanée-Saint-Vivant Grand Cru Les Quatre Journaux,France,731,4.4,2.6323903,4.1714225,0.0
+Roda I Reserva Rioja,Espagne,22749,4.4,3.7581875,3.708868,4.4
+Roccolo Ludwig Barth von Barthenau,Italie,155,4.4,2.7045262,3.336474,0.0
+Rioja Reserva 10 Años Después Edición Limitada,Espagne,1093,4.4,3.7935853,3.736463,4.4
+Rioja Reserva,Espagne,13544,4.4,3.7801104,3.6719735,4.4
+Rioja Blanco Reserva,Espagne,361,4.4,,3.2929113,0.0
+Ribera del Duero Prestigio,Espagne,2994,4.4,3.439635,3.6664393,4.5
+Reserve Pinotage,Afrique du Sud,1891,4.4,3.0276766,3.03456,4.5
+Reserva Particular de Recaredo Gran Reserva Brut Nature,Espagne,923,4.4,,3.393993,0.0
+RWT Bin 798 Shiraz,Australie,1975,4.4,3.2529354,3.0733402,4.4
+Quinta da Leda Douro,Portugal,14197,4.4,3.5543265,3.009171,4.4
+Quincha Corral,Espagne,1230,4.4,3.289507,3.2945478,4.5
+Quarz Sauvignon,Italie,8884,4.4,,3.3279023,4.425
+Puligny-Montrachet Premier Cru Les Combettes,France,582,4.4,,3.1358716,0.0
+Puligny-Montrachet Premier Cru Champ-Canet,France,1020,4.4,,3.310976,0.0
+Puligny-Montrachet Premier Cru ' Clos de la Truffière',France,475,4.4,,3.340396,0.0
+Puligny-Montrachet 1er Cru 'Les Champs Gains',France,429,4.4,,3.266688,0.0
+Puligny-Montrachet 1er Cru 'La Garenne',France,442,4.4,,3.2488666,0.0
+Predappio Massera,Italie,161,4.4,2.7059789,2.3762434,0.0
+Pomerol,France,3509,4.4,3.5694172,3.4342093,3.697413330471182
+Poggio Alle Nane Maremma Toscana,Italie,3509,4.4,2.919131,3.011608,4.4
+Poggio Al Vento Brunello di Montalcino Riserva,Italie,4542,4.4,3.6132965,3.7502875,4.4
+Pinotage,Afrique du Sud,2063,4.4,3.1789167,3.0094533,4.5
+Pieve Santa Restituta Brunello di Montalcino,Italie,21867,4.4,3.6146157,3.8261576,4.4
+Peña Lobera,Espagne,234,4.4,3.6499593,3.5274763,0.0
+Petracs Furmint,Hongrie,200,4.4,,4.0452156,4.4
+Pegrandi Amarone della Valpolicella Classico,Italie,1833,4.4,2.2416437,2.2755728,4.6
+Pavillon Rouge du Château Margaux,France,16401,4.4,3.7311282,4.0852337,0.0
+Pauillac (Grand Cru Classé),France,37460,4.4,4.2268305,4.1971974,4.154948034342521
+Paralupi Appassimento,Italie,575,4.4,2.606918,2.140114,0.0
+Pandorga,Espagne,148,4.4,,,0.0
+Palo Cortado Tradición Vors 30 Years Sherry,Espagne,1050,4.4,,3.5983322,4.4
+Paleo Rosso,Italie,10940,4.4,3.2685294,3.181494,2.2
+Palazzi Rosso Toscana,Italie,961,4.4,3.2222164,3.1346312,0.0
+Os Paulistas Chão dos Eremitas Vinhas Velhas,Portugal,334,4.4,2.8810358,2.949739,4.4
+Ornato Barolo,Italie,5469,4.4,4.3928475,4.6555104,4.5
+One Sixteen Chardonnay,États-Unis,1753,4.4,,3.3329105,4.5
+Old Vines Primitivo di Manduria,Italie,20904,4.4,2.3452597,1.824051,4.4
+Nuits-Saint-Georges 1er Cru 'Clos des Corvées',France,1245,4.4,2.689529,4.1876044,0.0
+Nuits-Saint-Georges 1er Cru 'Aux Thorey',France,543,4.4,2.585558,4.1987147,0.0
+Nuits-Saint-Georges,France,257,4.4,2.4711297,4.156226,0.0
+Novicium Estate,États-Unis,495,4.4,3.0751662,3.8662605,4.5
+Nicolás Catena Zapata,Argentine,28227,4.4,3.220787,3.0623786,4.5
+Nebukadnesar,Afrique du Sud,3609,4.4,3.468404,3.7397916,4.4
+Nebro Ribera del Duero,Espagne,647,4.4,3.627431,3.786551,0.0
+Museum Collection White,Grèce,297,4.4,,,4.6
+Mossone,Italie,892,4.4,2.990318,3.1251633,0.0
+Morey-Saint-Denis Tres Girard,France,339,4.4,2.625106,4.06517,4.5
+Montelìg,Chili,2905,4.4,3.4917915,3.1128125,4.45
+Montefico Barbaresco Vecchie Viti,Italie,581,4.4,4.201723,4.649112,0.0
+Minami,Espagne,246,4.4,3.9889214,3.27634,4.4
+Meursault 1er Cru 'Perrières',France,342,4.4,,3.0303018,0.0
+Merlot,États-Unis,1922,4.4,2.708973,2.5498877,3.0166666666666666
+Mendoza,Argentine,19849,4.4,3.569831,3.7735553,4.45
+Mazis-Chambertin Grand Cru Cuvée Madeleine Collignon,France,1016,4.4,2.6312659,3.9900656,4.7
+Mazis-Chambertin Grand Cru,France,433,4.4,2.6929922,4.170031,1.4062176165803109
+Malbec Argentino,Argentine,47435,4.4,2.6157,2.6859064,4.5
+Mai The First A.Montes Malbec,Argentine,6379,4.4,3.0504968,2.8237689,4.4
+Macán,Espagne,14368,4.4,3.7554247,3.6024113,4.5
+Lupicaia,Italie,4414,4.4,3.1133897,3.1440911,4.44
+Luminaria Primitivo di Manduria,Italie,563,4.4,2.104178,1.8724487,4.5
+Luce,Italie,17470,4.4,3.0761526,3.1256583,4.4
+Lot 1,États-Unis,226,4.4,3.5317361,3.8397396,4.7
+Los Jabalíes Single Vineyard Malbec,Argentine,284,4.4,2.9608433,2.9868217,4.5
+Librante Primitivo di Manduria,Italie,491,4.4,2.563917,2.0291247,0.0
+Les Sentiers Chambolle-Musigny 1er Cru,France,1253,4.4,2.5894532,4.025858,0.0
+Les Ruchons Sancerre Blanc,France,269,4.4,,4.0176926,4.5
+Les Noisetiers,États-Unis,7035,4.4,,3.2327442,4.4
+Les Manyes,Espagne,924,4.4,3.4206765,3.5719585,4.6
+Les Grandes Places Côte-Rôtie,France,1316,4.4,3.8541028,3.8559096,2.25
+Les Boudots Nuits-Saint-Georges 1er Cru,France,339,4.4,2.7914405,4.0359554,0.0
+Les Blanchiens Brut Nature Champagne Premier Cru,France,590,4.4,,4.163317,0.0
+Les Bessards Hermitage,France,1515,4.4,4.0391316,3.4622538,0.0
+Les Beaux Monts Vosne-Romanée 1er Cru,France,787,4.4,2.6404543,4.114098,0.0
+Le Petit Mouton de Mouton Rothschild Pauillac,France,8214,4.4,4.1678514,4.1714125,4.4
+Le Petit Cheval Bordeaux Blanc,France,782,4.4,,2.9790158,4.4
+Le Lucére Brunello di Montalcino Riserva,Italie,213,4.4,3.6851978,3.807475,0.0
+Lagrein Riserva Porphyr,Italie,5123,4.4,2.9868026,2.5272794,2.9333333333333336
+La Serra Barolo,Italie,1449,4.4,4.4503694,4.578067,0.0
+La Poza de Ballesteros,Espagne,987,4.4,3.7674932,3.3650222,4.5
+La Grande Rue Grand Cru Monopole,France,1496,4.4,2.6970747,4.36568,1.5
+L'Apparita,Italie,3836,4.4,3.0418284,3.1353738,4.07
+Kalkofen G.C,Allemagne,188,4.4,,4.07101,0.0
+Kairos,Italie,7364,4.4,2.9441109,2.4236004,3.56
+Ipsus Chianti Classico Gran Selezione,Italie,185,4.4,3.7746596,3.9390612,4.5
+Interpretación,Espagne,2760,4.4,3.622653,3.5556211,0.0
+Il Ritrovo,Italie,363,4.4,3.200187,3.0390668,0.0
+Il Bacca Old Vine Primitivo di Manduria,Italie,2933,4.4,2.3699353,1.8308221,4.4
+Il 'Divasco' Riserva,Italie,255,4.4,3.915937,3.8098495,0.0
+Hyde Vineyard Chardonnay,États-Unis,265,4.4,,2.8356404,0.0
+Hohenmorgen G.C,Allemagne,378,4.4,,4.530173,0.0
+Historical XIXth Century Wine,France,807,4.4,,,2.3
+Helichrysum Brunello di Montalcino,Italie,1370,4.4,3.73047,3.8121681,0.0
+Harimann Montepulciano d'Abruzzo,Italie,1086,4.4,3.3048418,3.9217417,0.0
+Guglielmi di Jago Amarone della Valpolicella Classico,Italie,408,4.4,2.4535384,2.3768718,2.35
+Guerriero della Terra,Italie,10185,4.4,2.6898563,2.8807938,4.4
+Guerriero del Mare,Italie,3290,4.4,,3.6361923,0.0
+Graticciaia,Italie,2451,4.4,2.8002653,2.3604577,4.4
+Grands-Échézeaux Grande Cuvée Vieilles Vignes,France,449,4.4,2.6039402,3.914567,4.5
+Grands-Échezeaux Grand Cru,France,544,4.4,2.6211526,4.2671757,4.6
+Grands-Echezeaux Grand Cru,France,700,4.4,2.7224967,3.8922136,0.0
+Grand Vin,Espagne,343,4.4,3.4871912,3.3251436,4.5
+Gran Corte (VII),Argentine,15016,4.4,3.1179137,3.0944748,4.5
+Graal Amarone della Valpolicella Valpantena,Italie,328,4.4,2.8733432,2.7646627,0.0
+Gorgona,Italie,592,4.4,,3.869,4.5
+Gold Series Syrah,États-Unis,477,4.4,3.75523,3.1688762,0.0
+Giunonico Riserva Primitivo di Manduria,Italie,460,4.4,2.5188973,2.4705703,0.0
+Giramonte Toscana,Italie,1678,4.4,2.872114,3.096134,4.4
+Giorgio Bartholomäus,Italie,554,4.4,3.2496185,3.150352,4.5
+Gevrey Chambertin 1er Cru 'Aux Combottes',France,1002,4.4,2.8043034,4.1931877,0.0
+Georges De Latour Private Reserve Cabernet Sauvignon,États-Unis,12652,4.4,3.3315527,3.3221471,4.5
+Gardarèm,France,1308,4.4,3.2220683,3.4020553,0.0
+Gallina Barbaresco,Italie,1017,4.4,3.9500387,4.612218,3.476394849785408
+Gabbro Toscana,Italie,921,4.4,3.1783893,3.079783,4.5
+Fusion V,Afrique du Sud,12877,4.4,3.4252377,3.678904,4.5
+Freienfeld Cabernet Sauvignon Riserva,Italie,173,4.4,3.1995988,2.88696,0.0
+Fort Ross Seaview Home Field Pinot Noir,États-Unis,483,4.4,2.0731697,3.4607437,0.0
+Fleur de Miraval Exclusivement Rosé Champagne,France,304,4.4,,3.9864666,4.4
+Fino La Barajuela,Espagne,222,4.4,,,0.0
+Fanòi Primitivo,Italie,695,4.4,2.1304173,1.7209091,4.5
+Falletto Barolo,Italie,1760,4.4,4.298659,4.714246,4.4
+Falletto Barbaresco Rabaja,Italie,448,4.4,4.1209636,4.74757,4.5
+Falletto Barbaresco Asili,Italie,3450,4.4,4.036474,4.7242866,4.4
+Evenstad Reserve Pinot Noir,États-Unis,11531,4.4,2.1460867,3.848453,4.4
+Estate Reserve Viognier,Afrique du Sud,257,4.4,,1.7106149,0.0
+Ermitage Ex-Voto,France,1804,4.4,4.097775,3.5583098,3.0
+El Escolladero,Espagne,161,4.4,3.50615,3.8649592,0.0
+Eight Years In The Desert,États-Unis,27195,4.4,2.5545352,1.9226278,4.4
+Duemani Cabernet Franc,Italie,2339,4.4,3.0741181,3.2126977,4.5
+Douro,Portugal,6214,4.4,3.5653784,3.0951936,4.5
+Dona Ermelinda Grande Reserva,Portugal,933,4.4,3.301781,2.8185594,4.4
+Domus Aurea Cabernet Sauvignon,Chili,9603,4.4,3.304302,3.0334966,4.4
+Dolç de L'Obac,Espagne,440,4.4,,,0.0
+Dogs of the Barossa Shiraz,Australie,264,4.4,3.2874637,3.048867,0.0
+Delicado Cosecha Pedro Ximénez,Espagne,870,4.4,,3.0970087,4.5
+Dalmau Rioja,Espagne,7868,4.4,3.8692777,3.778889,4.5
+Cěrǎsum Riserva Amarone della Valpolicella,Italie,460,4.4,2.2319505,2.254099,0.0
+Côtes de Bourg,France,8249,4.4,3.5007095,3.748591,2.25
+Côte-Rôtie,France,7177,4.4,4.059664,3.9255815,4.4
+Côte à Côte Estate,États-Unis,1133,4.4,3.468108,3.6084716,0.0
+Côte Rôtie La Brocarde,France,278,4.4,3.5617976,3.8583148,0.0
+Cuvée des Cadettes Châteauneuf-du-Pape,France,3283,4.4,2.8770597,3.0606353,4.5
+Cuvée Risleus Brut Champagne Premier Cru,France,415,4.4,,4.3493085,4.4
+Cream Tradición Vos 20 Years,Espagne,623,4.4,,3.5464005,4.4
+Cos d'Estournel,France,43704,4.4,4.2301917,4.2013316,3.7
+Corton-Charlemagne Grand Cru Blanc,France,2453,4.4,,3.2267067,0.0
+Corton-Charlemagne Grand Cru,France,5755,4.4,,3.1831756,3.2173973234886937
+Corton-Bressandes Grand Cru,France,861,4.4,2.3176732,3.7803164,0.0
+Corton Grand Cru 'Clos Rognet',France,543,4.4,2.3959322,3.771881,0.0
+Colore Toscana,Italie,1415,4.4,3.0629816,3.3819811,4.4
+Colheita Porto,Portugal,741,4.4,,3.048492,4.5
+Clos des Lambrays Grand Cru,France,6431,4.4,2.650363,4.186641,4.45
+Clos de la Roche Grand Cru Cuvée Vieilles Vignes,France,2678,4.4,2.6762874,4.208333,3.2142857142857144
+Clos de la Roche Grand Cru,France,429,4.4,2.7189612,4.029349,0.0
+Clos de Vougeot,France,608,4.4,2.907331,4.0593004,0.0
+Clos de L'Obac,Espagne,2588,4.4,3.325913,3.516844,4.6
+Clos Vougeot Grand Cru,France,226,4.4,2.9310076,4.3224115,1.1283987915407856
+Clos Saint Denis Grand Cru,France,474,4.4,2.5575855,4.1495495,0.0
+Cinque Autoctoni Collection Limited Release,Italie,4281,4.4,2.8115416,2.9294932,4.4
+Châteauneuf-du-Pape Réservé Blanc,France,668,4.4,,3.2144742,4.6
+Châteauneuf-Du-Pape Cuvée Des Générations Gaston-Philippe,France,2077,4.4,3.0934217,3.1158712,4.5
+Château de Cîteaux Meursault 1er Cru 'Charmes' Blanc,France,368,4.4,,3.431202,0.0
+Chevalier-Montrachet Grand Cru Les Demoiselles,France,532,4.4,,3.3081732,0.0
+Chevalier-Montrachet Grand Cru Blanc,France,1283,4.4,,3.2550032,4.5
+Chemin du Bois Champagne,France,184,4.4,,4.5432525,0.0
+Chateauneuf-Du-Pape Cuvée Des Générations Marie Leoncie,France,1041,4.4,,3.090322,0.0
+Chassagne-Montrachet Premier Cru 'Morgeot' Blanc,France,1701,4.4,,3.190376,0.0
+Chassagne-Montrachet 1er Cru 'Morgeot',France,329,4.4,,3.266263,0.0
+Charmes-Chambertin Grand Cru Les Mazoyères,France,548,4.4,2.4620166,3.7261949,0.0
+Charmes-Chambertin Grand Cru,France,359,4.4,2.4363687,4.250017,1.0154098360655737
+Chapelle d'Ausone Saint-Émilion Grand Cru,France,1086,4.4,3.4600708,3.4394982,0.9199999999999999
+Champ Cain Extra Brut Champagne Grand Cru 'Avize',France,234,4.4,,4.2807527,0.0
+Chambolle-Musigny Premier Cru Les Charmes,France,364,4.4,2.6164844,4.2270317,0.0
+Chambolle-Musigny Premier Cru 'Les Feusselottes',France,262,4.4,2.4941669,3.87661,0.0
+Chambolle-Musigny Les Cabottes,France,413,4.4,2.5458186,4.1607304,0.0
+Chambertin Clos de Bèze Grand Cru,France,983,4.4,2.7508845,4.0507774,0.0
+Chablis Grand Cru 'Les Clos',France,173,4.4,,3.915051,0.0
+Castello della Sala Cervaro della Sala,Italie,30203,4.4,,3.8587165,4.433333333333334
+Castellberg Pinot Noir,Allemagne,187,4.4,2.311893,3.5972824,0.0
+Carruades de Lafite Pauillac,France,13866,4.4,4.0219874,4.112083,4.45
+Carpathia Heritage,Roumanie,166,4.4,3.268372,3.1726356,4.5
+Carmin,France,931,4.4,3.7262545,3.7490327,0.0
+Cannubi Barolo,Italie,82,4.4,4.504499,4.711738,3.1578947368421053
+Campo del Drago Brunello di Montalcino,Italie,2854,4.4,3.7435818,3.9112031,4.5
+Campo dei Gigli Amarone della Valpolicella,Italie,5050,4.4,2.3940825,2.252263,4.4
+Campo León Amarone della Valpolicella,Italie,7778,4.4,2.2959945,2.328538,4.4
+Campo Alla Sughera,Italie,888,4.4,2.921205,3.096663,4.45
+Calle Merlot Rosso Veronese,Italie,1053,4.4,2.9226327,2.3299327,4.4
+Bâtard-Montrachet Grand Cru,France,347,4.4,,3.2141867,1.624792013311148
+Bual Madeira,Portugal,187,4.4,,4.0222726,0.0
+Brut Rosé Champagne,France,21147,4.4,,4.180463,4.4680683311432325
+Brut Cuvée Champagne Rosé,France,36681,4.4,,4.250294,4.4
+Brut Champagne (Gold),France,3874,4.4,,4.178781,4.4
+Brunello di Montalcino Riserva,Italie,273,4.4,3.4420428,3.939,3.174551234106208
+Brunello di Montalcino  Montosoli,Italie,6176,4.4,3.6159627,3.9027393,4.433333333333334
+Brunello di Montalcino,Italie,25989,4.4,3.5789404,3.8184934,4.123661420988919
+Bramare Malbec Uco Valley,Argentine,19752,4.4,2.7679684,2.697112,4.5
+Bonnes Mares Grand Cru,France,452,4.4,2.7849274,4.127239,0.0
+Blanc de Blancs Brut Champagne Grand Cru,France,5553,4.4,,4.291068,4.4
+Big'd Big Barolo,Italie,1148,4.4,4.242019,4.5567408,0.0
+Beyond the Clouds,Italie,4760,4.4,,3.2295082,0.0
+Belondrade y Lurton,Espagne,13567,4.4,,3.07816,4.4
+Belles Soeurs Cuvée Pinot Noir,États-Unis,229,4.4,2.244193,3.9554749,4.5
+Beaune 1er Cru 'Clos des Mouches' Blanc,France,3093,4.4,,3.1847384,4.5
+Barón de Chirel Rioja Reserva,Espagne,8578,4.4,3.665263,3.5531914,4.5
+Barsac (Premier Grand Cru Classé),France,6028,4.4,,4.358521,3.375
+Barrosu Cannonau di Sardegna Riserva Franzisca,Italie,794,4.4,3.0682156,3.1168516,4.5
+Baron de L Pouilly-Fumé,France,9002,4.4,,3.850036,4.4
+Barolo Rocche di Castiglione,Italie,1272,4.4,4.3769674,4.6330266,0.0
+Barolo Rocche,Italie,1615,4.4,4.192189,4.443262,1.78
+Barolo Riserva Leon,Italie,948,4.4,4.4133496,4.65733,4.4
+Barolo Monprivato,Italie,6966,4.4,4.265546,4.551566,4.514285714285714
+Barolo Ginestra Casa Maté,Italie,4116,4.4,4.269364,4.50987,4.4
+Barolo Enrico VI,Italie,3107,4.4,4.197519,4.4703164,2.9333333333333336
+Barolo Cannubi Boschis,Italie,4298,4.4,4.278373,4.490502,4.4
+Barolo Bussia Vigna Munie,Italie,141,4.4,4.291106,4.493274,0.0
+Barolo Bussia Cicala,Italie,3346,4.4,4.343274,4.518978,4.45
+Barolo Bussia,Italie,4525,4.4,4.3328404,4.4169183,4.4
+Barolo Bricco Rocche,Italie,2923,4.4,4.3411164,4.663758,4.5
+Barolo Bricco Gattera,Italie,2365,4.4,4.3506813,4.5690866,4.5
+Barbaresco Asili,Italie,710,4.4,4.14382,4.664794,0.0
+Avizoise Blanc de Blancs Extra Brut Champagne Grand Cru 'Avize',France,1278,4.4,,4.6446457,0.0
+Attunga 1865 Shiraz,Australie,371,4.4,3.2360806,2.999023,0.0
+Asili Barbaresco Vecchie Viti,Italie,668,4.4,4.1181383,4.4989524,0.0
+Ares,Australie,1995,4.4,3.2092862,3.0160916,4.5
+Arché,Portugal,429,4.4,3.135536,2.9899054,4.5
+Arborina Barolo,Italie,2527,4.4,4.331842,4.596376,2.25
+Aphrodite,Australie,367,4.4,3.4953165,3.537,0.0
+Annunziata Barolo Riserva,Italie,138,4.4,4.6669974,4.8139467,4.5
+Amarone della Valpolicella Vigna Garzon,Italie,4227,4.4,2.3032715,2.3771174,4.4
+Amarone della Valpolicella Riserva,Italie,958,4.4,2.2274282,2.49915,0.0
+Amarone della Valpolicella,Italie,2610,4.4,2.3668778,2.4014342,2.8261410788381744
+Amarone Classico Monte Danieli,Italie,504,4.4,2.4624083,2.4180279,4.5
+Altura Máxima Malbec,Argentine,2168,4.4,2.7976477,2.885381,4.5
+Altero Brunello di Montalcino,Italie,4620,4.4,3.517492,3.8212059,4.466666666666667
+Altagracia Cabernet Sauvignon,États-Unis,3083,4.4,3.5206296,3.505831,4.4
+Alexander Valley Cabernet Sauvignon,États-Unis,46066,4.4,3.3149757,2.9983644,4.5
+Ai Suma Barbera d'Asti,Italie,3012,4.4,2.3706212,3.894353,4.5
+ARTEMIS Cabernet Sauvignon,États-Unis,81351,4.4,3.286232,3.383825,4.5
+80 Vecchie Vigne Primitivo di Manduria Old Vines,Italie,2476,4.4,2.2367518,1.8199955,4.5
+50 Old Vines Vecchie Vigne Negroamaro,Italie,510,4.4,3.1225617,2.4967277,4.4
+50 & 50,Italie,9157,4.4,3.1226244,3.2017627,4.433333333333334
+5 Puttonyos Aszú (Blue Label),Hongrie,11106,4.4,,4.947574,4.4
+40 Years Old Tawny Port,Portugal,357,4.4,,3.147774,4.4
+30 Year Old Tawny Port,Portugal,602,4.4,,2.9178329,4.4
+123 Brunello di Montalcino Riserva,Italie,525,4.4,3.6491272,3.8688908,0.0
+110 e Lode Merlot,Italie,174,4.4,3.3302798,2.6912735,0.0
+Winemaker's Selection,Croatie,292,4.3,3.8425384,4.436117,4.4
+Vosne-Romanée Premier Cru Les Suchots,France,522,4.3,3.0134473,4.182564,4.5
+Vosne-Romanée Premier Cru 'Les Suchots',France,601,4.3,2.6770926,4.029017,4.5
+Vosne-Romanée 'Les Quartiers de Nuits',France,511,4.3,2.6758735,4.1826763,4.5
+Vosne-Romanée,France,1030,4.3,2.5376325,4.0248237,4.5
+Volnay 1er Cru Les Caillerets,France,591,4.3,2.2771854,3.960021,4.5
+Vigne Vecchie Gold Series Leggenda Primitivo di Manduria,Italie,3121,4.3,2.3039157,1.9133979,4.5
+Vigna Molsino,Italie,2269,4.3,4.283946,4.6251874,4.5
+Victorino,Espagne,9294,4.3,3.4223406,2.7780287,4.4
+Vecchie Vigne Brunello di Montalcino,Italie,3868,4.3,3.714271,3.9151838,4.5
+Vacqueyras,France,3412,4.3,3.1417801,3.4521956,4.4
+Ulysses,États-Unis,1980,4.3,3.6223862,3.755958,4.4
+Toscana Il Pareto,Italie,3195,4.3,3.0821085,3.0065615,4.6
+Toscana Camartina,Italie,3673,4.3,3.0193403,3.1647222,4.4
+Toscana Batar,Italie,4187,4.3,,3.8311777,4.4
+Tokaji Aszú 3 Puttonyos,Hongrie,7080,4.3,,4.8892546,4.4
+TD9,États-Unis,6056,4.3,3.5120857,3.8259566,4.4
+Serral del Vell Brut Nature,Espagne,2418,4.3,,3.5424502,4.5
+Scrio,Italie,2322,4.3,2.986092,3.1090095,4.45
+Sassella Nuova Regina Riserva,Italie,987,4.3,4.258797,4.478054,4.4
+San Vicente Rioja,Espagne,10701,4.3,3.8288155,3.698022,4.4
+Saint-Julien (Grand Cru Classé),France,33618,4.3,3.9169717,4.2215004,4.2234
+Saint-Joseph,France,3931,4.3,3.270629,3.5058928,4.4
+Saint-Estèphe (Grand Cru Classé),France,35624,4.3,4.3646746,4.2593036,4.425
+Rutherford Cabernet Sauvignon,États-Unis,655,4.3,3.39272,3.3400948,4.6
+Royal St Robert Cuvée Pinot Noir,États-Unis,2099,4.3,2.1664553,3.414597,4.4
+Rocche di Castiglione Barolo,Italie,2397,4.3,4.1884637,4.501871,4.414285714285715
+Riserva Nova Domus Terlaner,Italie,5250,4.3,,3.2276218,4.4
+Ribolla Gialla,Italie,7018,4.3,,3.3096104,4.4
+Ribera del Duero Reserva,Espagne,37394,4.3,3.5788078,3.6510444,4.4
+Reserva Ribera del Duero,Espagne,11233,4.3,3.561232,3.7252333,4.4
+Rapture Cabernet Sauvignon,États-Unis,2117,4.3,3.2336414,2.968296,4.4
+Pur Sang,France,3634,4.3,,3.9940429,4.45
+Puligny-Montrachet Premier Cru Clos du Cailleret,France,395,4.3,,3.3434565,4.6
+Puligny-Montrachet Enseignères,France,941,4.3,,3.35,4.5
+Puligny-Montrachet,France,4548,4.3,,3.2249227,4.4
+Preta Cuvée David Booth Grande Reserva,Portugal,1507,4.3,3.1083326,3.1055214,4.5
+Pommard 1er Cru Les Rugiens-Bas,France,592,4.3,2.2637491,3.80164,4.5
+Platinum,Suisse,883,4.3,3.1689587,3.2129703,4.4
+Piovesole Amarone della Valpolicella Classico,Italie,868,4.3,2.227989,2.7069697,4.5
+Pietradonice,Italie,2266,4.3,3.1683702,3.1051316,4.45
+Pian delle Vigne Brunello di Montalcino,Italie,31363,4.3,3.439114,3.7869322,4.4
+Pessac-Léognan (Grand Cru Classé de Graves),France,25444,4.3,4.2683516,4.2328806,3.8309877340219494
+Perpetual,Espagne,3809,4.3,3.2960627,3.4795744,4.4
+Percarlo,Italie,4808,4.3,3.251966,3.213206,4.45
+Pajè Barbaresco,Italie,1910,4.3,4.1472893,4.6281357,4.45
+Oreno Toscana,Italie,12407,4.3,3.1308863,3.1260839,4.4
+Nine Popes,Australie,2118,4.3,3.1510305,2.9806938,4.4
+Mongovone Barbera d'Asti Superiore,Italie,2771,4.3,2.233243,3.4402444,4.4
+Moncerbal Bierzo (Corullón),Espagne,1090,4.3,2.9701667,3.9696674,4.5
+Miserere,Espagne,1392,4.3,3.3331068,3.5874398,4.5
+Mille E Una Notte,Italie,15865,4.3,3.1133888,2.466708,4.4
+Meursault 1er Cru 'Les Genevrières',France,606,4.3,,3.3009865,4.5
+Meursault 1er Cru 'Charmes',France,242,4.3,,3.2378836,4.5
+Merlot (Signature),États-Unis,2312,4.3,2.379254,1.8657606,4.4
+Memorias,Chili,15980,4.3,,,4.4
+Maria Adelaide Barbaresco,Italie,501,4.3,3.9611266,4.516188,4.5
+Malleolus,Espagne,34630,4.3,3.5076983,3.6814659,4.4
+Maggiarino Vino Nobile di Montepulciano,Italie,555,4.3,3.5565088,3.783131,4.4
+Macán Clásico,Espagne,16525,4.3,3.7565541,3.6308076,4.4
+Lion Tamer Napa Valley Red Blend,États-Unis,4981,4.3,3.3586774,3.8570921,4.4
+Lindaflor Blend,Argentine,3550,4.3,2.9406312,3.2285435,4.5
+Le Serre Nuove,Italie,50411,4.3,3.8654778,3.4638002,4.4
+La Cueva del Contador Rioja,Espagne,4013,4.3,3.8145914,3.7476807,4.4
+Il Pino di Biserno,Italie,17566,4.3,3.025851,3.0246398,4.4
+Il Bricco Barbaresco,Italie,2299,4.3,4.0229735,4.6537747,4.4
+Hermitage La Chapelle Rouge,France,15298,4.3,3.999296,3.4834516,4.5
+Gratallops Partida Bellvisos,Espagne,627,4.3,3.3338401,3.4345481,4.5
+Gran Reserva Rioja (Finca Ygay),Espagne,9595,4.3,3.7326818,3.701244,4.4
+Gran Malbec (X),Argentine,12579,4.3,2.8184214,2.6869044,4.4
+Giallo d'Arles Greco di Tufo,Italie,3274,4.3,,2.8980155,4.4
+Gewürztraminer Lunare,Italie,2732,4.3,,2.3839974,4.4
+Gaudium,Espagne,7414,4.3,3.9184062,3.7049477,4.4
+Galatrona,Italie,7971,4.3,3.055552,3.112219,4.425000000000001
+Félix Callejo (Viñedos de la Familia),Espagne,1341,4.3,3.7325103,3.7628725,4.5
+Esporão Private Selection Tinto,Portugal,12566,4.3,3.1646738,2.9711084,4.4
+Douro Quinta da Manoella VV Tinto,Portugal,2548,4.3,3.704223,3.239602,4.533333333333333
+Domaine des Tourettes Hermitage Rouge,France,3806,4.3,4.057726,3.5418537,4.4
+Domaine Grand Veneur Châteauneuf-Du-Pape Vieilles Vignes,France,875,4.3,3.0592542,3.08676,4.5
+Dagromis Barolo,Italie,20685,4.3,4.2813616,4.5853696,4.4
+Côtes du Rhône,France,8196,4.3,2.9252746,3.3747108,4.4
+Cà Bertoldi Amarone della Valpolicella Classico,Italie,3708,4.3,2.1124525,2.2030034,4.5
+Cuvée Impériale Châteauneuf-du-Pape,France,1881,4.3,2.8309696,3.1300437,4.4
+Crescendo,Afrique du Sud,1347,4.3,3.480235,3.6205332,4.4
+Costasera Amarone della Valpolicella Classico,Italie,93397,4.3,2.241271,2.2137997,4.4
+Cosimo Varvaglione Collezione Privata Negroamaro del Salento,Italie,826,4.3,2.7886288,2.5906193,4.4
+Corte di Cama Sforzato di Valtellina,Italie,3211,4.3,4.2303834,4.5061083,4.4
+Clos de la Coulée de Serrant,France,8365,4.3,,4.7550335,4.4
+Clos de Vougeot Grand Cru,France,467,4.3,2.5358272,4.235216,4.5
+Chateau Buena Vista Cabernet Sauvignon Napa Valley,États-Unis,13415,4.3,3.2363372,3.289551,4.4
+Chassagne-Montrachet 1er Cru 'La Maltroie',France,779,4.3,,3.3383968,4.4
+Chassagne-Montrachet,France,3269,4.3,,3.2823174,4.4
+Chardonnay,États-Unis,18694,4.3,,2.992915,4.066285714285715
+Chambolle-Musigny,France,3455,4.3,2.600401,4.0891213,4.5
+Chambertin Grand Cru,France,1293,4.3,2.7089093,3.9825957,2.6538461538461537
+Cepparello Red,Italie,12191,4.3,3.0117443,3.1967108,4.4
+Cava Celler Batlle,Espagne,1575,4.3,,3.4646797,4.4
+Castello della Sala Muffato della Sala,Italie,6356,4.3,,,4.5
+Capitel Monte Olmi Amarone della Valpolicella Classico Riserva,Italie,4229,4.3,2.4783933,2.4235454,4.4
+Cabernet - Cabernet,Argentine,27436,4.3,3.288324,3.1445348,4.4
+Buisson Renard,France,2119,4.3,,3.9708703,4.4
+Brunello di Montalcino Riserva Vigna Paganelli,Italie,7123,4.3,3.743623,3.8713474,4.4
+Brunello di Montalcino Riserva Pian di Conte,Italie,1118,4.3,3.500469,3.8143263,4.4
+Bricco dell'Uccellone Barbera d'Asti,Italie,17625,4.3,2.405632,3.8818424,4.4
+Bric Dël Fiasc Barolo,Italie,4947,4.3,4.374409,4.6329103,4.45
+Bordeaux,France,2246,4.3,3.5683084,3.9396377,4.4
+Blanc de Blancs Brut Champagne (Vintage),France,6400,4.3,,4.472281,4.4
+Blanc,France,2053,4.3,,2.4751124,4.6
+Barolo Sorì Ginestra,Italie,4827,4.3,4.4165354,4.607528,4.466666666666667
+Barolo Riserva Vigna Rionda,Italie,3530,4.3,4.3764653,4.5637417,4.45
+Barolo Riserva Bricco Boschis Vigna San Giuseppe,Italie,4030,4.3,4.4499836,4.575484,4.4
+Barolo Riserva,Italie,12663,4.3,4.283502,4.5947633,3.618292682926829
+Barolo Prapò,Italie,2450,4.3,4.2461057,4.5526896,4.4
+Barolo Paiagallo,Italie,1917,4.3,4.4286523,4.470939,4.4
+Barolo Le Vigne,Italie,5026,4.3,4.371829,4.557749,4.45
+Barolo Ginestra Vigna del Gris,Italie,3333,4.3,4.4271502,4.6171455,4.5
+Barolo Ciabot Mentin Ginestra,Italie,3525,4.3,4.4585395,4.607701,4.4
+Barolo Cerequio,Italie,3839,4.3,4.4023557,4.5820665,4.4
+Barolo Brunate,Italie,1482,4.3,4.4596047,4.583945,4.442572062084258
+Barbera d'Alba Vigna Francia,Italie,7315,4.3,2.3515034,3.8663404,4.4
+Barbaresco Rabajà,Italie,5469,4.3,4.004881,4.594954,4.5
+Barbaresco Gaiun Martinenga,Italie,2298,4.3,4.05455,4.591956,4.4
+B Bordicon Blend,Afrique du Sud,1088,4.3,3.280962,3.685791,4.5
+Annonciade Champagne,France,137,4.3,,4.438599,4.5
+Amaya Arzuaga (Colección),Espagne,1179,4.3,3.3883185,3.6540797,4.5
+Amarone della Valpolicella Classico,Italie,1940,4.3,2.1792488,2.2746797,3.8532390381895336
+6 Anime Puglia Rosso,Italie,2476,4.3,2.6744978,2.135559,4.5
+25 anni Montefalco Sagrantino,Italie,5419,4.3,3.512506,3.1158633,4.4
+Vieilles Vignes Meursault,France,1426,4.2,,3.191122,4.4
+Valdegines,Espagne,2594,4.2,3.8617196,3.473707,4.4
+Solare Toscana,Italie,4961,4.2,3.0380645,3.1583757,4.5
+Rioja 150 Aniversario,Espagne,4642,4.2,3.6425138,3.7774308,4.4
+Primitivo di Manduria,Italie,2011,4.2,2.0256343,1.9416709,4.5
+Pochi Filagn Barbera d'Alba,Italie,410,4.2,2.29063,3.643069,4.5
+Old Vines Malbec,Argentine,667,4.2,3.062966,3.0245454,4.4
+Montepulciano d'Abruzzo,Italie,10110,4.2,3.0102289,3.902051,4.0164150943396235
+Margaux (Grand Cru Classé),France,15699,4.2,3.8464792,4.198862,4.4
+Malbec,Argentine,33640,4.2,2.6998742,2.717778,4.4
+Linticlarus Lagrein Riserva,Italie,1387,4.2,2.9161847,2.468318,4.4
+La Ricolma,Italie,1525,4.2,3.0506861,3.1633458,4.5
+La Chapelle de La Mission Haut-Brion Pessac-Léognan,France,6754,4.2,4.1879635,4.1492968,4.4
+Kevin Arnold Shiraz,Afrique du Sud,6987,4.2,3.0410163,3.2652426,4.4
+Cuvée Kermesse Rosso,Italie,1153,4.2,3.090991,2.518945,4.4
+Cuvée Extase Blanc de Blancs Champagne Grand Cru,France,231,4.2,,4.2562604,4.5
+Cresasso Corvina Veronese,Italie,2333,4.2,2.8751512,2.2652118,4.4
+Conde de Superunda,Chili,3237,4.2,,,4.5
+Colheita Port,Portugal,8039,4.2,,3.0321395,4.5
+Châteauneuf-du-Pape Chaupin,France,4483,4.2,2.9245813,3.0871341,4.4
+Châteauneuf-du-Pape,France,13917,4.2,2.8783433,3.0795522,4.53489932885906
+Chambolle-Musigny Les Baudes,France,525,4.2,2.7171526,4.360476,4.5
+Chafandin,Espagne,2570,4.2,3.6940742,3.8019114,4.4
+Carabantes Syrah,Chili,4523,4.2,2.9519954,2.6460416,4.4
+Bolgheri Superiore Sondraia,Italie,12843,4.2,3.9485788,3.4810367,4.4
+Barolo Monvigliero,Italie,1163,4.2,4.4151855,4.5930014,4.5
+Barolo Cerretta,Italie,1921,4.2,4.3894467,4.6620226,3.248888888888889
+Barolo Cannubi,Italie,1801,4.2,4.381315,4.520639,4.4
+Amarone Della Valpolicella Marta Galli,Italie,1085,4.2,2.1693032,2.306526,4.4
+Aile d'Argent Blanc Bordeaux,France,4790,4.2,,2.8267791,4.4
+Nuits-Saint-Georges 1er Cru Les Damodes,France,793,4.1,2.8115623,4.160488,4.5
+Clos des Porrets Nuits-Saint-Georges 1er Cru,France,3063,4.1,2.77446,4.1547327,4.4
+Capellanía Reserva,Espagne,7314,4.1,,3.2488387,4.4
