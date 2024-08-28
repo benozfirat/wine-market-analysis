@@ -4,23 +4,37 @@ import panda
 conn = sqlite3.connect('db/vivino.db')
 cursor = conn.cursor()
 
-req =('''
-        SELECT 
-            wines.name AS "Wines",
-            countries.name AS "Country",
-            wines.ratings_count AS "Reviews",
-            wines.ratings_average AS "Rating",
-            wines.tannin AS "Tannin",
-            wines.acidity AS "Acidity",
-            AVG(vintages.ratings_average) AS "Vintage Rating"
-        FROM wines
-        JOIN regions ON wines.region_id = regions.id
-        JOIN countries ON regions.country_code = countries.code
-        JOIN keywords_wine ON wines.id = keywords_wine.wine_id
-        JOIN vintages ON wines.id = vintages.wine_id
-        GROUP BY wines.name
-        ORDER BY wines.ratings_average DESC
-      ''')
+ req = ('''
+        SELECT
+            Wines
+            Country,
+            Reviews,
+            Rating,
+            Tannin,
+            Acidity,
+            avg(Vintage_Rating) as "Vintage Rating",
+            COUNT(DISTINCT Keywords) as "Keywords_count"
+            FROM (
+            SELECT 
+                wines.name AS "Wines",
+                countries.name AS "Country",
+                wines.ratings_count AS "Reviews",
+                wines.ratings_average AS "Rating",
+                wines.tannin AS "Tannin",
+                wines.acidity AS "Acidity",
+                keywords.name AS "Keywords",
+                vintages.ratings_average AS "Vintage_Rating"
+            FROM wines
+            JOIN regions ON wines.region_id = regions.id
+            JOIN countries ON regions.country_code = countries.code
+            JOIN keywords_wine ON wines.id = keywords_wine.wine_id
+            JOIN keywords ON keywords.id = keywords_wine.keyword_id
+            JOIN vintages ON wines.id = vintages.wine_id
+            WHERE keywords.name IN ('dark fruit', 'blackcurrant', 'blackberry', 'cedar', 'tobacco', 'mint', 'earthy', 'leather', 'dried herbs', 'cigar Box')
+            )
+            GROUP BY Wines
+            ORDER BY Wines
+''')
 
 cursor.execute(req)
 
