@@ -14,7 +14,8 @@ req = ('''
             wines_fizziness,
             wines_intensity,
             wines_sweetness,
-            wines_tannin
+            wines_tannin,
+            regions_name
         FROM (
             SELECT DISTINCT 
                 wines.name AS "wines_name", 
@@ -25,7 +26,8 @@ req = ('''
                 wines.fizziness AS "wines_fizziness",
                 wines.intensity AS "wines_intensity",
                 wines.sweetness AS "wines_sweetness",
-                wines.tannin AS "wines_tannin"
+                wines.tannin AS "wines_tannin",
+                regions.name AS "regions_name"
             FROM wines
             JOIN regions ON wines.region_id = regions.id
             JOIN countries ON regions.country_code = countries.code
