@@ -1,34 +1,32 @@
 import sqlite3
 import csv
+impot panda
 
 conn = sqlite3.connect('db/vivino.db')
 cursor = conn.cursor()
 
 req =('''
         SELECT 
-            vintages.name AS "vintages_name", 
-            wines.name AS "wines_name", 
-            vintages.ratings_average AS "vintages_ratings_average", 
-            vintages.ratings_count AS "vintages_ratings_count", 
-            vintages.price_euros AS "vintages_price_euros"
-        From vintages
-        JOIN wines ON vintages.wine_id = wines.id
-        WHERE wines.name LIKE '%Cabernet Sauvignon%'
-        ORDER BY vintages.ratings_average desc
-        LIMIT 5;
+            wines.name AS "Wines",
+            countries.name AS "Country",
+            wines.ratings_count AS "Reviews",
+            wines.ratings_average AS "Rating",
+            wines.tannin AS "Tannin",
+            wines.acidity AS "Acidity",
+            AVG(vintages.ratings_average) AS "Vintage Rating"
+        FROM wines
+        JOIN regions ON wines.region_id = regions.id
+        JOIN countries ON regions.country_code = countries.code
+        JOIN keywords_wine ON wines.id = keywords_wine.wine_id
+        JOIN vintages ON wines.id = vintages.wine_id
+        GROUP BY wines.name
+        ORDER BY wines.ratings_average DESC
       ''')
 
 cursor.execute(req)
 
-rows = cursor.fetchall()
 csv_file_name = 'wines_data.csv'
 
-with open(csv_file_name, 'w', newline='') as csv_file:
-    csv_writer = csv.writer(csv_file)
-    
-    headers = [i[0] for i in cursor.description]
-    csv_writer.writerow(headers)
-    
-    csv_writer.writerows(rows)
-
 conn.close()
+
+pd.read_sql_query(req, conn).to_csv(csv_file_name, index=False)
