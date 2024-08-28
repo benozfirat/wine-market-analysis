@@ -6,8 +6,7 @@ cursor = conn.cursor()
 
  req = ('''
         SELECT
-            Wines
-            Country,
+            Wines,
             Reviews,
             Rating,
             Tannin,
@@ -17,7 +16,6 @@ cursor = conn.cursor()
             FROM (
             SELECT 
                 wines.name AS "Wines",
-                countries.name AS "Country",
                 wines.ratings_count AS "Reviews",
                 wines.ratings_average AS "Rating",
                 wines.tannin AS "Tannin",
@@ -26,7 +24,6 @@ cursor = conn.cursor()
                 vintages.ratings_average AS "Vintage_Rating"
             FROM wines
             JOIN regions ON wines.region_id = regions.id
-            JOIN countries ON regions.country_code = countries.code
             JOIN keywords_wine ON wines.id = keywords_wine.wine_id
             JOIN keywords ON keywords.id = keywords_wine.keyword_id
             JOIN vintages ON wines.id = vintages.wine_id
