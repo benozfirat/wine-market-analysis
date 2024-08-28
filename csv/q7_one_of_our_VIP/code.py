@@ -11,6 +11,7 @@ cursor = conn.cursor()
             Rating,
             Tannin,
             Acidity,
+            Intensity,
             avg(Vintage_Rating) as "Vintage Rating",
             COUNT(DISTINCT Keywords) as "Keywords_count"
             FROM (
@@ -20,6 +21,7 @@ cursor = conn.cursor()
                 wines.ratings_average AS "Rating",
                 wines.tannin AS "Tannin",
                 wines.acidity AS "Acidity",
+                wines.intensity AS "Intensity",
                 keywords.name AS "Keywords",
                 vintages.ratings_average AS "Vintage_Rating"
             FROM wines
@@ -28,7 +30,7 @@ cursor = conn.cursor()
             JOIN keywords ON keywords.id = keywords_wine.keyword_id
             JOIN vintages ON wines.id = vintages.wine_id
             WHERE keywords.name IN ('dark fruit', 'blackcurrant', 'blackberry', 'cedar', 'tobacco', 'mint', 'earthy', 'leather', 'dried herbs', 'cigar Box')
-            )
+           )
         GROUP BY Wines
 ''')
 
