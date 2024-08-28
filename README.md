@@ -39,5 +39,5 @@ python main.py
 ```
 ## Author
 
-Atome1212, benozfirat, Hui, Jojo
+Atome1212, benozfirat, Hui, JojoPanis
 
