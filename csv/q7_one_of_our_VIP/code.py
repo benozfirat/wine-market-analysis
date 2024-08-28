@@ -1,5 +1,4 @@
 import sqlite3
-import csv
 import panda
 
 conn = sqlite3.connect('db/vivino.db')
