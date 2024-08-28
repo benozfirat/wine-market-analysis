@@ -1,6 +1,6 @@
 import sqlite3
 import csv
-impot panda
+import panda
 
 conn = sqlite3.connect('db/vivino.db')
 cursor = conn.cursor()
