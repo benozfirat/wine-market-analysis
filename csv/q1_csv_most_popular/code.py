@@ -25,15 +25,6 @@ req = ('''
 
 cursor.execute(req)
 
-rows = cursor.fetchall()
-csv_file_name = 'wines_data.csv'
-
-with open(csv_file_name, 'w', newline='') as csv_file:
-    csv_writer = csv.writer(csv_file)
-    
-    headers = [i[0] for i in cursor.description]
-    csv_writer.writerow(headers)
-    
-    csv_writer.writerows(rows)
+pd.read_sql_query(req, conn).to_csv('wines_data.csv', index=False)
 
 conn.close()
