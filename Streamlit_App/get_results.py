@@ -27,7 +27,7 @@ def get_most_popular_wines(df):
     "wines_rating_avg": "Rating"})
     return df
 
-def get_gepetto(df):
+def get_geppetto(df):
     df = df.sort_values(["wines_ratings_count"], ascending=False)
     df=df.iloc[0:10]
     df = df.sort_values(["wines_ratings_avg", "vintages_ratings_avg"], ascending=[False,False]).reset_index()
@@ -102,9 +102,25 @@ def get_wines_triage(df):
 
     return Chardonnay, Cabernet_Sauvignon, Pinot_Noir
 
+def get_cabernet(df):
+    df = df[df['Wines'].str.contains('Cabernet Sauvignon')]
+    df = df.rename(columns={
+    "Keywords_count": "Keywords"})
+    return df
+
+def get_potion(df):
+    df=df.sort_values(by=['Keywords_count','Rating'], ascending=False).reset_index()
+    df=df.iloc[0:3]
+    df.drop('index',axis=1,inplace=True)
+    df.index = range(1, len(df) + 1)
+    df = df.rename(columns={
+    "Keywords_count": "Keywords",})
+    return df
+
+
 #Datasets
 df_top_ten_most_popular = pd.read_csv('utils/wines_data.csv', encoding='latin-1')
-df_gepetto = pd.read_csv('utils/Gepetto_Award.csv', encoding='latin-1')
+df_gepetto = pd.read_csv('utils/Geppetto_Award.csv', encoding='latin-1')
 df_acidity = pd.read_csv('utils/Acidity.csv', encoding='latin-1')
 df_best_vintage_winery = pd.read_csv('utils/Best_vintage_winery.csv', encoding='latin-1')
 df_grape_count = pd.read_csv('utils/grapes_count.csv', encoding='UTF-8')
@@ -131,56 +147,4 @@ Pinot_Noir = Pinot_Noir.iloc[0:5]
 Pinot_Noir.drop('index',axis=1,inplace=True)
 Pinot_Noir.index = range(1, len(Pinot_Noir) + 1)
 
-print(Cabernet_Sauvignon.head(5))
 
-
-
-"""st.header('Best Accessible Wines :earth_americas:')
-df_grapes = pd.read_csv('utils/grapes_count.csv', encoding='UTF-8')
-fig= get_grape_count(df_grapes)
-st.table(fig)
-
-fig = px.bar(fig, x='Grapes', y="Count",  color_discrete_sequence=["#AF1B3F"],height=700, width=900, title='Top 5 Most Accessible Grapes')
-fig.update_layout(yaxis=dict(range=[500000, 850000]))
-st.plotly_chart(fig)"""
-
-
-
-
-
-"""#Main title
-st.title('Vivino Dashboard :wine_glass:')
-
-#Create a sidebar
-st.sidebar.title('Menu')
-pages= ['Home', 'Top 10 Most Popular Wines', 'Awards', 'Best Accessible Wines']
-
-page= st.sidebar.selectbox('Go to', pages)
-
-
-if page == 'Home':
-    st.write('Welcome to Vivino Dashboard')
-    #st.image('utils/vivino_logo.png')
-
-elif page == 'Top 10 Most Popular Wines':
-    st.header('Top 10 Most Popular Wines')
-    display_aggrid_table(get_most_popular_wines(df_top_ten_most_popular),title= "Most popular wines with a rating of at least 4.6  \n"  , height=400)
-    fig = px.bar(get_most_popular_wines(df_top_ten_most_popular), x='Wines', y="Rating", color='Reviews',color_continuous_scale="Blues",height=700, width=900, title='Top 10 Most Popular Wines')
-    fig.update_layout(yaxis=dict(range=[4, 4.7]))
-    st.plotly_chart(fig)
-
-elif page == 'Awards':
-    st.header('Gepetto Award :pinched_fingers:')
-    display_aggrid_table(get_gepetto(df_gepetto), title='Best wine from Italy based on the top 10 from number of reviews, the rating and the vintage rating  \n', height=400)
-    st.header('As toxic as LoL Player Award :japanese_ogre:')
-    display_aggrid_table(get_acidity(df_acidity), title='Best acidity rate from the top 50 in reviews count\n ', height=400)
-    st.header('Best vintage winery Award :wine_glass:')
-    fig= get_best_vintage_winery(df_best_vintage_winery)
-    st.table(fig)
-
-elif page == 'Best Accessible Wines':
-    st.header('Best Accessible Wines')
-    display_aggrid_table(get_grape_count(df_grape_count), title='Top 3 grapes with the highest number of wines\n ', height=400)
-    fig = px.bar(get_grape_count(df_grape_count), x='grapes_name', y="wines_count", color='wines_count',color_continuous_scale="Blues",height=700, width=900, title='Top 3 Grapes with the highest number of wines')
-    fig.update_layout(yaxis=dict(range=[0, 500]))
-    st.plotly_chart(fig)"""

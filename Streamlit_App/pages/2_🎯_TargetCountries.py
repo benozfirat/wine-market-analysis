@@ -37,11 +37,11 @@ top_5 = df2.head(5)
 
 # Streamlit app layout
 st.set_page_config(page_title="Top 5 Countries by Overall Score", page_icon=":clipboard:")
-st.header(':clipboard: Top 5 Countries by Overall Score')
+st.header('Top 5 Countries by Overall Score :chart_with_upwards_trend:')
 
 # Explanation of the overall score calculation
 explanation = """
-### Explanation of Overall Score Calculation
+### Explanation of Overall Score Calculation ➕➖
 
 The **Overall Score** is calculated using the following formula:
 

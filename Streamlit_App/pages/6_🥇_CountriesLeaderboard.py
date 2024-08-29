@@ -43,7 +43,9 @@ df_vintage['Rank'] = range(1, len(df_vintage) + 1)
 df_vintage.loc[0:2, 'Rank'] = ['🥇', '🥈', '🥉']
 
 # Streamlit app layout
-st.title("Wine and Vintage Leaderboards")
+st.set_page_config(page_title="Country Leaderboard", page_icon=":first_place_medal:")
+st.header("Wine and Vintage Leaderboards :clipboard:")
+
 
 # Function to generate HTML table without index
 def generate_table_html(df, rating_column):
