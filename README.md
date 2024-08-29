@@ -29,7 +29,32 @@
 ├── main.py
 ├── requirements.txt
 ├── csv
+│   ├── bq1_natural
+│   │   └── code.py
+│   ├── bq2_match_keyword
+│   │   └── code.py
+│   ├── q1_csv_most_popular
+│   │   └── code.py
+│   ├── q2_countries
+│   │   └── code.py
+│   ├── q3_GEPETTO
+│   │   └── code.py
+│   ├── q3_Toxic_award_CSV
+│   │   └── code.py
+│   ├── q3_best_vintage
+│   │   └── code.py
+│   ├── q3_sweetness
+│   │   └── code.py
+│   ├── q4_keyword
+│   │   └── code.py
+│   ├── q5_most_wines
+│   │   └── code.py
+│   ├── q6_average_rating
+│   │   └── code.py
+│   └── q7_one_of_our_VIP
+│       └── code.py
 └── utils
+
 
 ```
 
