@@ -109,9 +109,8 @@
     ├── rating_per_countries.csv
     ├── wines_data.csv
     └── wines_ratings.csv
-
-
 ```
+This tree provides an overview of the project structure, showing where each file and directory is located.
 
 ## 💻 Installation
 
