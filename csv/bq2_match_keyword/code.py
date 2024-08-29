@@ -26,6 +26,7 @@ req = ('''
             WHERE keywords.name IN ('coffee', 'bacon fat', "baby\'breath", 'chalk', 'Clay Dust', 'kerosene', 'pencil lead', 'potpourri', 'rubber ciment', 'wet gravel', "cat\'s pee")
         )
         GROUP BY Wines
+        HAVING COUNT(DISTINCT Keywords) > 20
     ''')
 
 cursor.execute(req)
