@@ -16,10 +16,10 @@ A brief description of what the project does, its main goals, and why it is usef
 
 ## 📚 Table of Contents
 
-- [📝 Description](#description)
-- [📂 Project Structure](#project-structure)
-- [💻 Installation](#installation)
-- [🏃‍♂️ How to Run](#how-to-run)
+- [Description](#-description)
+- [Project Structure](#-project-structure)
+- [Installation](#-installation)
+- [How to Run](#-how-to-run)
   
 ## 📂 Project Structure
 
