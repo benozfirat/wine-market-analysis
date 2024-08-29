@@ -115,14 +115,14 @@
 
 ## 💻 Installation
 
-```git
+```bash
 git clone git@github.com:benozfirat/wine-market-analysis.git
 cd wine-market-analysis
 pip install -r requirements.txt
 ```
 ## 🏃‍♂️ How to Run
 
-```python
+```bash
 python main.py
 ```
 
