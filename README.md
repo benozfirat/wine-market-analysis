@@ -16,10 +16,31 @@
 
 ## 📚 Table of Contents
 - [📝 Description](#-description)
-- [📂 Project Structure](#-project-structure)
 - [💻 Installation](#-installation)
 - [🏃‍♂️ How to Run](#-how-to-run)
-  
+- [🎓 Team Members](#-teams-members)
+- [📂 Project Structure](#-project-structure)
+
+## 💻 Installation
+
+```bash
+git clone git@github.com:benozfirat/wine-market-analysis.git
+cd wine-market-analysis
+pip install -r requirements.txt
+```
+## 🏃‍♂️ How to Run
+
+```bash
+python main.py
+```
+
+# 🎓 Team Members
+
+- **👷‍♂️ [Atome1212](https://github.com/Atome1212)**: Data Engineer
+- **👷‍♂️ [Jojopanis](https://github.com/Jojopanis)**: Data Engineer
+- **👨‍💻 [benozfirat](https://github.com/benozfirat)**: Data Analyst
+- **👩‍💻 [EmmaSHANG0625](https://github.com/EmmaSHANG0625)** : Data Analyst
+
 ## 📂 Project Structure
 
 ```bash 
@@ -111,24 +132,4 @@
     └── wines_ratings.csv
 ```
 This tree provides an overview of the project structure, showing where each file and directory is located.
-
-## 💻 Installation
-
-```bash
-git clone git@github.com:benozfirat/wine-market-analysis.git
-cd wine-market-analysis
-pip install -r requirements.txt
-```
-## 🏃‍♂️ How to Run
-
-```bash
-python main.py
-```
-
-# 🎓 Team Members
-
-- **👷‍♂️ [Atome1212](https://github.com/Atome1212)**: Data Engineer
-- **👷‍♂️ [Jojopanis](https://github.com/Jojopanis)**: Data Engineer
-- **👨‍💻 [benozfirat](https://github.com/benozfirat)**: Data Analyst
-- **👩‍💻 [EmmaSHANG0625](https://github.com/EmmaSHANG0625)** : Data Analyst
   
