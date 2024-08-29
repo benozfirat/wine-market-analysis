@@ -1,11 +1,13 @@
+
+
+# 🍷 Wine Market Analysis
 <p align="center">
   <a href="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1">
       <img src="https://media.wired.com/photos/641337bd5e3ab3be4fe3e789/master/w_1600%2Cc_limit/sql_normal.gif" alt="Click me !" width="500" />
   </a>
 </p>
 
-# 🍷 Wine Market Analysis
-
+## Language
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org) [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![StreamLit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 ## 📝 Description
