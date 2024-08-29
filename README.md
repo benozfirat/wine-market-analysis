@@ -7,7 +7,7 @@
 
 # wine-market-analysis
 
-![Python](https://img.shields.io/badge/Python-3.x-blue) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![Python](https://img.shields.io/badge/Python-3.x-blue) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Description
 
