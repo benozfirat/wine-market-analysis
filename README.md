@@ -34,7 +34,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-# 🎓 Team Members
+## 🎓 Team Members
 
 - **👷‍♂️ [Atome1212](https://github.com/Atome1212)**: Data Engineer
 - **👷‍♂️ [Jojopanis](https://github.com/Jojopanis)**: Data Engineer
