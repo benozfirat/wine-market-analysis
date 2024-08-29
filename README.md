@@ -91,7 +91,6 @@
 ├── db
 │   └── vivino.db
 ├── requirements.txt
-├── tree.py
 └── utils
     ├── Acidity.csv
     ├── Best_vintage_winery.csv
