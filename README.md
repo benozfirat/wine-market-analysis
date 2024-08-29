@@ -30,13 +30,13 @@
 ├── requirements.txt
 ├── csv
 │   ├── bq1_natural
-│   │   ├──wines_data.csv
+│   │   ├── wines_data.csv
 │   │   └── code.py
 │   ├── bq2_match_keyword
-│   │   ├──wines_data.csv
+│   │   ├── wines_data.csv
 │   │   └── code.py
 │   ├── q1_csv_most_popular
-│   │   ├──wines_data.csv
+│   │   ├── wines_data.csv
 │   │   └── code.py
 │   ├── q2_countries
 │   │   └── script.py
@@ -44,22 +44,24 @@
 │   │   ├──wines_data.csv
 │   │   └── code.py
 │   ├── q3_Toxic_award_CSV
-│   │   ├──wines_data.csv
+│   │   ├── wines_data.csv
 │   │   └── code.py
 │   ├── q3_best_vintage
-│   │   ├──wines_data.csv
+│   │   ├── wines_data.csv
 │   │   └── code.py
 │   ├── q3_sweetness
-│   │   ├──wines_data.csv
+│   │   ├── wines_data.csv
 │   │   └── code.py
 │   ├── q4_keyword
-│   │   ├──wines_data.csv
+│   │   ├── wines_data.csv
 │   │   └── code.py
 │   ├── q5_most_wines
+│   │   ├── wines_data.csv
 │   │   └── code.py
 │   ├── q6_average_rating
-│   │   └── code.py
+│   │   └── script.py
 │   └── q7_one_of_our_VIP
+│   │   ├── wines_data.csv
 │       └── code.py
 └── utils
 
