@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ## 🏃‍♂️ How to Run
 
 ```bash
-python main.py
+streamlit run Vivino.py
 ```
 
 ## 🗂️ Directory Roles
