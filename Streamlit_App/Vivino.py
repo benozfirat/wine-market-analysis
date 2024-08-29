@@ -61,11 +61,19 @@ st.markdown("""Vivino is now under the control of four individuals who fervently
 st.image("utils\images\Dalton.jpg", caption="Actual Team", use_column_width=True)
 
 
-st.markdown("---")
-
 # Display a footer with links to our GitHub profiles
-st.markdown("""
-[Geoffroy](https://github.com/Jojopanis) | [Ben](https://github.com/benozfirat) | [Hui](https://github.com/EmmaSHANG0625) | [Colin](https://github.com/Atome1212)
 
+st.write("### Meet the Team")
+st.write("""
+
+- [Geoffroy Panis](https://github.com/Jojopanis) - Data Engineer
+- [Ben Ozfirat](https://github.com/benozfirat) - Data Analyst
+- [Hui Shang](https://github.com/EmmaSHANG0625) - Data Analyst
+- [Colin Grégoire](https://github.com/Atome1212) - Data Engineer
+""")
+
+st.markdown("---") 
+
+st.write("""          
 &copy; 2056 ThisIsNotReallyVivino. All rights reserved.
 """)
