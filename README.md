@@ -128,8 +128,8 @@ python main.py
 
 # 🎓 Team Members
 
-- **👷‍♂️ [Atome1212](https://github.com/Atome1212)**:          Data Engineer
-- **👷‍♂️ [Jojopanis](https://github.com/Jojopanis)**:          Data Engineer
-- **👨‍💻 [benozfirat](https://github.com/benozfirat)**:        Data Analyst
+- **👷‍♂️ [Atome1212](https://github.com/Atome1212)**: Data Engineer
+- **👷‍♂️ [Jojopanis](https://github.com/Jojopanis)**: Data Engineer
+- **👨‍💻 [benozfirat](https://github.com/benozfirat)**: Data Analyst
 - **👩‍💻 [EmmaSHANG0625](https://github.com/EmmaSHANG0625)** : Data Analyst
   
