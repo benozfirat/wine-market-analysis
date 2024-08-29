@@ -1,3 +1,4 @@
+
 # 🍷 Wine Market Analysis
 <p align="center">
   <a href="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1">
@@ -15,9 +16,11 @@
 ## 📚 Table of Contents
 - [📝 Description](#-description)
 - [💻 Installation](#-installation)
-- [🏃‍♂️ How to Run](#-How-to-Run)
-- [🎓 Team Members](#-Team-Members)
+- [🏃‍♂️ How to Run](#-how-to-run)
+- [🗂️ Directory Roles](#-directory-roles)
+- [🎓 Team Members](#-team-members)
 - [📂 Project Structure](#-project-structure)
+
 
 ## 💻 Installation
 
@@ -26,11 +29,17 @@ git clone git@github.com:benozfirat/wine-market-analysis.git
 cd wine-market-analysis
 pip install -r requirements.txt
 ```
+
 ## 🏃‍♂️ How to Run
 
 ```bash
 python main.py
 ```
+
+## 🗂️ Directory Roles
+
+- The `csv` directory contains the work of the Data Engineers, focusing on data extraction and transformation using SQL.
+- The `Streamlit_App` directory contains the work of the Data Analysts, who create interactive visualizations and dashboards using Streamlit based on the processed data.
 
 ## 🎓 Team Members
 
@@ -129,5 +138,5 @@ python main.py
     ├── wines_data.csv
     └── wines_ratings.csv
 ```
+
 This tree provides an overview of the project structure, showing where each file and directory is located.
-  
