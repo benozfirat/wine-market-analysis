@@ -12,7 +12,7 @@
 
 ## 📝 Description
 
-A brief description of what the project does, its main goals, and why it is useful.
+**The Wiwino Market** Analysis project, conducted as part of the **BeCode** training, focuses on analyzing the wine market using specific skills. Data Engineers enhance their **SQL skills** to query and extract relevant wine data, such as top-selling wines and customer preferences. Meanwhile, Data Analysts use **Streamlit** to create interactive visualizations based on this data, providing clear and actionable insights into wine market trends. Task management is organized through **Trello** to ensure effective and structured collaboration throughout the project.
 
 ## 📚 Table of Contents
 - [📝 Description](#-description)
