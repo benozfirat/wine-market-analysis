@@ -39,9 +39,10 @@
 │   │   ├── wines_data.csv
 │   │   └── code.py
 │   ├── q2_countries
+│   │   ├── countries.csv
 │   │   └── script.py
 │   ├── q3_GEPETTO
-│   │   ├──wines_data.csv
+│   │   ├── wines_data.csv
 │   │   └── code.py
 │   ├── q3_Toxic_award_CSV
 │   │   ├── wines_data.csv
@@ -50,8 +51,8 @@
 │   │   ├── wines_data.csv
 │   │   └── code.py
 │   ├── q3_sweetness
-│   │   ├── wines_data.csv
-│   │   └── code.py
+│   │   ├── sweetness_index.csv
+│   │   └── script.py
 │   ├── q4_keyword
 │   │   ├── wines_data.csv
 │   │   └── code.py
