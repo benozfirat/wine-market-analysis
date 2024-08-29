@@ -4,17 +4,21 @@ import streamlit as st
 # Set the page title and icon
 st.set_page_config(page_title="Vivino Homepage", page_icon="🍷")
 
-# Display title of the page
-st.markdown("## Welcome to our homepage! 🍷")
-
-st.markdown("---")
-
 # Add the logo image
-st.image("utils\images\Vivino.png", use_column_width=True)
+st.image("utils\images\Vivino.png", width=200)
 
-st.markdown("---")
+
+st.markdown("""
+<h1 align="center">🍷 Vivino Project🍷</h1>
+""", unsafe_allow_html=True)
+
+
+
 
 # Display a quick intro
+# Display title of the page
+st.markdown("## Welcome to our homepage! 🏠")
+
 st.markdown("""
 We are a distinguished wine-selling company with deep roots in the historic city of Liège, where we have been proudly established since 2036. Over the years, we have grown from a small, passionate team into a globally recognized brand, known for our commitment to quality and innovation in the wine industry.
 
