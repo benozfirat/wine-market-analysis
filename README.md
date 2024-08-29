@@ -10,17 +10,18 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org) [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org)
 
 
-## Description
+## 📝 Description
 
 A brief description of what the project does, its main goals, and why it is useful.
 
-## Table of Contents
+## 📚 Table of Contents
 
-- [Description](#description)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [How to Run](#how-to-run)
-## Project Structure
+- [📝 Description](#description)
+- [📂 Project Structure](#project-structure)
+- [💻 Installation](#installation)
+- [🏃‍♂️ How to Run](#how-to-run)
+  
+## 📂 Project Structure
 
 ```bash 
 
@@ -33,14 +34,14 @@ A brief description of what the project does, its main goals, and why it is usef
 
 ```
 
-## Installation
+## 💻 Installation
 
 ```bash
 git clone git@github.com:benozfirat/wine-market-analysis.git
 cd wine-market-analysis
 pip install -r requirements.txt
 ```
-## How to Run
+## 🏃‍♂️ How to Run
 
 ```bash
 python main.py
