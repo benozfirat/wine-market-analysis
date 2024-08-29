@@ -42,7 +42,7 @@ python main.py
 ## 📂 Project Structure
 
 ```bash 
-
+/wine-market-analysis
 ├── .gitignore
 ├── README.md
 ├── Streamlit_App
