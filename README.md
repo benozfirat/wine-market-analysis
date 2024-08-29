@@ -1,8 +1,8 @@
-<center>
+<div style="text-align: center" width="100%">
     <a href="https://media.wired.com/photos/641337bd5e3ab3be4fe3e789/master/w_1600%2Cc_limit/sql_normal.gif">
         <img src="https://media.wired.com/photos/641337bd5e3ab3be4fe3e789/master/w_1600%2Cc_limit/sql_normal.gif" alt="Description de l'image" width="500" />
     </a>
-</center>
+</div>
 
 
 # wine-market-analysis
