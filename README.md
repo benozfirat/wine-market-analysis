@@ -45,7 +45,11 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-## Author
 
-[Atome1212](https://github.com/Atome1212), benozfirat, EmmaSHANG0625, JojoPanis
+# 🎓 Team Members
 
+- **👷‍♂️ [Atome1212](https://github.com/Atome1212)**: Engineer
+- **👷‍♂️ [JojoPanis](https://github.com/JojoPanis)**: Engineer
+- **👨‍💻 [benozfirat](https://github.com/benozfirat)**: Data Analyst
+- **👩‍💻 [EmmaSHANG0625](https://github.com/EmmaSHANG0625)** : Data Analyst
+  
