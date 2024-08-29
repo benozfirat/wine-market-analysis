@@ -12,7 +12,7 @@ st.header('Natural Wines :deciduous_tree:')
 
 # Explanation of the section on Natural Wines
 explanation = """
-### Should we invest more into Natural Wines? 🌿 \n 
+### Should we add more Natural Wines on our website? 🌿 \n 
 
 **Natural wines are made from grapes that are grown without the use of artificial or synthetic chemicals, such as herbicides and pesticides.**
 
@@ -32,7 +32,7 @@ natural_counts = df_natural['Natural'].value_counts().reset_index()
 natural_counts.columns = ['Natural', 'count']  # Rename columns for clarity
 
 # Create a pie chart to visualize the proportion of natural vs. normal wines
-fig = px.pie(natural_counts, values='count', names='Natural', title=' ', color_discrete_sequence=["#A30000","#F6D173"])
+fig = px.pie(natural_counts, values='count', names='Natural', title=' ', color_discrete_sequence=["#06C","#F6D173"])
 st.subheader('Is it a natural wine? (Wines from our website) :bar_chart: \n')
 st.plotly_chart(fig)
 

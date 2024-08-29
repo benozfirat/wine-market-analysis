@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from get_results import get_potion  # Custom function for processing data related to the "Secret Potion"
+from get_results import get_potion  
 
 # Streamlit configuration: Set up the page title and icon
 st.set_page_config(page_title="Secret Potion", page_icon="⚗️")
