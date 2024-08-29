@@ -49,7 +49,7 @@ python main.py
 # 🎓 Team Members
 
 - **👷‍♂️ [Atome1212](https://github.com/Atome1212)**: Engineer
-- **👷‍♂️ [JojoPanis](https://github.com/JojoPanis)**: Engineer
+- **👷‍♂️ [Jojopanis](https://github.com/Jojopanis)**: Engineer
 - **👨‍💻 [benozfirat](https://github.com/benozfirat)**: Data Analyst
 - **👩‍💻 [EmmaSHANG0625](https://github.com/EmmaSHANG0625)** : Data Analyst
   
