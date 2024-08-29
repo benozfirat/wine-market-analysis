@@ -17,7 +17,7 @@
 ## 📚 Table of Contents
 - [📝 Description](#-description)
 - [💻 Installation](#-installation)
-- [🏃‍♂️ How to Run](#-how-to-Run)
+- [🏃‍♂️ How to Run](#-How-to-Run)
 - [🎓 Team Members](#-Team-Members)
 - [📂 Project Structure](#-project-structure)
 
