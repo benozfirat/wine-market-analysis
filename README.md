@@ -47,5 +47,5 @@ python main.py
 ```
 ## Author
 
-Atome1212, benozfirat, EmmaSHANG0625, JojoPanis
+[Atome1212](https://github.com/Atome1212), benozfirat, EmmaSHANG0625, JojoPanis
 
