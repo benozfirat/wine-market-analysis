@@ -7,7 +7,7 @@ st.header("Rank the Importance of Each Factor :clipboard:")
 @st.cache_data
 def load_data():
     # Load the original data (non-normalized)
-    df = pd.read_csv("utils\countries.csv", usecols=['country', 'avg_price', 'avg_rating', 'wines_count', 'wineries_count'])
+    df = pd.read_csv("utils/countries.csv", usecols=['country', 'avg_price', 'avg_rating', 'wines_count', 'wineries_count'])
     
     # Convert string columns to categorical to save memory
     df['country'] = df['country'].astype('category')
