@@ -1,0 +1,1 @@
+BQ1- Wines'name as Wines, Wines'rating average as Rating, Wines'rating count as Reviews, Wines'isnatural as Natural, vintage's avg rating as Vintage Rating por favooooooor
