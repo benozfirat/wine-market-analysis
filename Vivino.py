@@ -5,7 +5,7 @@ import streamlit as st
 st.set_page_config(page_title="Vivino Homepage", page_icon="🍷")
 
 # Add the logo image
-st.image("utils\images\Vivino.png", width=200)
+st.image("utils/images/Vivino.png", width=200)
 
 
 st.markdown("""
