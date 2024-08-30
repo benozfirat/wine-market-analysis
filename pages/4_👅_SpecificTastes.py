@@ -3,7 +3,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 from matplotlib.ticker import MultipleLocator
 
-df4 = pd.read_csv("utils\Specific_Taste.csv")
+df4 = pd.read_csv("utils/Specific_Taste.csv")
 
 st.set_page_config(page_title="Specific Tastes", page_icon="🍷")
 st.header('Wines with Specific Tastes :mask:')
