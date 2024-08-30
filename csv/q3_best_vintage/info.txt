@@ -1,0 +1,1 @@
+Q3-- BEST VINTAGE AWARD CSV vintage name, year, price,  rating avg, country IF (VINTAGE) rating count > 500

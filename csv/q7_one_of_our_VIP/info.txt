@@ -1,0 +1,2 @@
+# Q7--- One of our VIP clients likes _Cabernet Sauvignon_ and would like our top 5 recommendations. Which wines would you recommend to him?
+#Please select the (both wines and vintages) name including ‘%Cabernet Sauvignon%', and I need the ‘name’, ‘ratings_average’, ‘ratings_count’, 'price_euros', (may need script the price for wines)
