@@ -30,7 +30,7 @@ From the rolling vineyards of Europe to the emerging wine regions of the New Wor
 """)
 
 # Display first image
-st.image("utils\images\Mr.Geppetto.jpeg", caption="Mr.Geppetto, our founder", use_column_width=True, width=100)
+st.image("utils/images/Mr.Geppetto.jpeg", caption="Mr.Geppetto, our founder", use_column_width=True, width=100)
 
 
 st.markdown("---")
@@ -58,7 +58,7 @@ st.markdown("## Our Team 👨‍👨‍👦‍👦")
 st.markdown("""Vivino is now under the control of four individuals who fervently profess their commitment to revitalizing the wine market, promising a fusion of innovation and tradition that will redefine the industry. They declare their mission to restore the wine market to its former glory, but beneath the veneer of their noble rhetoric lies a stark truth. Their grand promises of unparalleled experiences are overshadowed by a more insidious reality: a relentless pursuit of money and fame. While they project an image of passion and dedication, their true drive is a quest for personal gain and public acclaim. The facade of their purported vision masks the cold reality of their ambitions.""")
 
 # Display third image
-st.image("utils\images\Dalton.jpg", caption="Actual Team", use_column_width=True)
+st.image("utils/images/Dalton.jpg", caption="Actual Team", use_column_width=True)
 
 
 # Display a footer with links to our GitHub profiles
